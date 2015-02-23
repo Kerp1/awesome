@@ -1,0 +1,62 @@
+
+html, body {
+    height: 100%;
+}
+
+body {
+	animation: colorchange 10s; /* animation-name followed by duration in seconds*/
+	animation-iteration-count:infinite;
+	-webkit-animation: colorchange 10s; /* Chrome and Safari */
+	-webkit-animation-iteration-count:infinite;
+}
+
+@keyframes colorchange
+{
+  0%   {background: red;}
+  25%  {background: yellow;}
+  50%  {background: blue;}
+  75%  {background: green;}
+  100% {background: red;}
+}
+
+@-webkit-keyframes colorchange /* Safari and Chrome - necessary duplicate */
+{
+  0%   {background: red;}
+  25%  {background: yellow;}
+  50%  {background: blue;}
+  75%  {background: green;}
+  100% {background: red;}
+}
+
+body {
+    margin: 0;
+}
+.flex-container {
+    height: 100%;
+    padding: 0;
+    margin: 0;
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+
+    align-items: center;
+    justify-content: center;
+}
+
+.flex-item {
+    padding: 5px;
+    width: auto;
+    height: auto;
+    margin: 10px;
+    line-height: 80px;
+    font-weight: bold;
+    font-size: 6em;
+    text-align: center;
+}
+
+iframe {
+  visibility: hidden; 
+  display: none;
+}
