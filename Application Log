@@ -1,0 +1,1729 @@
+# Logfile created on 2015-02-23 16:12:51 +0100 by logger.rb/47272
+D, [2015-02-23T16:13:01.906784 #12831] DEBUG -- : 
+D, [2015-02-23T16:13:01.906850 #12831] DEBUG -- : 
+I, [2015-02-23T16:13:01.907059 #12831]  INFO -- : Started GET "/" for ::1 at 2015-02-23 16:13:01 +0100
+F, [2015-02-23T16:13:01.970075 #12831] FATAL -- : 
+ActiveRecord::RecordNotFound (Couldn't find Song with 'id'=):
+  app/controllers/welcome_controller.rb:10:in `index'
+
+
+D, [2015-02-23T16:13:47.168013 #12831] DEBUG -- : 
+D, [2015-02-23T16:13:47.168245 #12831] DEBUG -- : 
+I, [2015-02-23T16:13:47.168748 #12831]  INFO -- : Started GET "/" for ::1 at 2015-02-23 16:13:47 +0100
+D, [2015-02-23T16:13:47.373105 #12831] DEBUG -- : 
+D, [2015-02-23T16:13:47.373214 #12831] DEBUG -- : 
+I, [2015-02-23T16:13:47.373467 #12831]  INFO -- : Started GET "/assets/welcome-ac913bc6b7e051712312b4fa8ca33d42.css?body=1" for ::1 at 2015-02-23 16:13:47 +0100
+D, [2015-02-23T16:13:47.383493 #12831] DEBUG -- : 
+D, [2015-02-23T16:13:47.383866 #12831] DEBUG -- : 
+I, [2015-02-23T16:13:47.389128 #12831]  INFO -- : Started GET "/assets/application-c97f2c6d3aaa430522e7d1157fbc3cb6.css?body=1" for ::1 at 2015-02-23 16:13:47 +0100
+D, [2015-02-23T16:13:47.392555 #12831] DEBUG -- : 
+D, [2015-02-23T16:13:47.392668 #12831] DEBUG -- : 
+I, [2015-02-23T16:13:47.392956 #12831]  INFO -- : Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-23 16:13:47 +0100
+D, [2015-02-23T16:13:47.398341 #12831] DEBUG -- : 
+D, [2015-02-23T16:13:47.398873 #12831] DEBUG -- : 
+I, [2015-02-23T16:13:47.399284 #12831]  INFO -- : Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-23 16:13:47 +0100
+D, [2015-02-23T16:13:47.404851 #12831] DEBUG -- : 
+D, [2015-02-23T16:13:47.404974 #12831] DEBUG -- : 
+I, [2015-02-23T16:13:47.405268 #12831]  INFO -- : Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-02-23 16:13:47 +0100
+D, [2015-02-23T16:13:47.411770 #12831] DEBUG -- : 
+D, [2015-02-23T16:13:47.411882 #12831] DEBUG -- : 
+I, [2015-02-23T16:13:47.412236 #12831]  INFO -- : Started GET "/assets/user_sessions-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:13:47 +0100
+D, [2015-02-23T16:13:47.416188 #12831] DEBUG -- : 
+D, [2015-02-23T16:13:47.416302 #12831] DEBUG -- : 
+I, [2015-02-23T16:13:47.416576 #12831]  INFO -- : Started GET "/assets/songs-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:13:47 +0100
+D, [2015-02-23T16:13:47.419485 #12831] DEBUG -- : 
+D, [2015-02-23T16:13:47.419616 #12831] DEBUG -- : 
+I, [2015-02-23T16:13:47.419843 #12831]  INFO -- : Started GET "/assets/users-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:13:47 +0100
+D, [2015-02-23T16:13:47.423304 #12831] DEBUG -- : 
+D, [2015-02-23T16:13:47.423442 #12831] DEBUG -- : 
+I, [2015-02-23T16:13:47.423792 #12831]  INFO -- : Started GET "/assets/welcome-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:13:47 +0100
+D, [2015-02-23T16:13:47.426961 #12831] DEBUG -- : 
+D, [2015-02-23T16:13:47.427234 #12831] DEBUG -- : 
+I, [2015-02-23T16:13:47.427461 #12831]  INFO -- : Started GET "/assets/application-17e4801155788a176bbbc02f37563650.js?body=1" for ::1 at 2015-02-23 16:13:47 +0100
+D, [2015-02-23T16:13:56.781897 #12831] DEBUG -- : 
+D, [2015-02-23T16:13:56.782002 #12831] DEBUG -- : 
+I, [2015-02-23T16:13:56.782156 #12831]  INFO -- : Started GET "/" for ::1 at 2015-02-23 16:13:56 +0100
+F, [2015-02-23T16:13:56.790775 #12831] FATAL -- : 
+ActiveRecord::RecordNotFound (Couldn't find Song with 'id'=):
+  app/controllers/welcome_controller.rb:12:in `index'
+
+
+D, [2015-02-23T16:15:21.018268 #12831] DEBUG -- : 
+D, [2015-02-23T16:15:21.018340 #12831] DEBUG -- : 
+I, [2015-02-23T16:15:21.018464 #12831]  INFO -- : Started GET "/" for ::1 at 2015-02-23 16:15:21 +0100
+F, [2015-02-23T16:15:21.064469 #12831] FATAL -- : 
+ArgumentError (wrong number of arguments (2 for 0..1)):
+  app/controllers/welcome_controller.rb:9:in `rand'
+  app/controllers/welcome_controller.rb:9:in `index'
+
+
+D, [2015-02-23T16:16:17.342767 #12831] DEBUG -- : 
+D, [2015-02-23T16:16:17.343045 #12831] DEBUG -- : 
+I, [2015-02-23T16:16:17.343529 #12831]  INFO -- : Started GET "/" for ::1 at 2015-02-23 16:16:17 +0100
+F, [2015-02-23T16:16:17.414967 #12831] FATAL -- : 
+ActiveRecord::RecordNotFound (Couldn't find Song with 'id'=):
+  app/controllers/welcome_controller.rb:11:in `index'
+
+
+D, [2015-02-23T16:16:38.386287 #12831] DEBUG -- : 
+D, [2015-02-23T16:16:38.386789 #12831] DEBUG -- : 
+I, [2015-02-23T16:16:38.387349 #12831]  INFO -- : Started GET "/" for ::1 at 2015-02-23 16:16:38 +0100
+F, [2015-02-23T16:16:38.455470 #12831] FATAL -- : 
+NameError (undefined local variable or method `number' for #<WelcomeController:0x007fc7644e2e78>):
+  app/controllers/welcome_controller.rb:10:in `index'
+
+
+D, [2015-02-23T16:16:48.534437 #12831] DEBUG -- : 
+D, [2015-02-23T16:16:48.534696 #12831] DEBUG -- : 
+I, [2015-02-23T16:16:48.535099 #12831]  INFO -- : Started GET "/" for ::1 at 2015-02-23 16:16:48 +0100
+F, [2015-02-23T16:16:48.601447 #12831] FATAL -- : 
+NameError (undefined local variable or method `songId' for #<WelcomeController:0x007fc76442c678>):
+  app/controllers/welcome_controller.rb:11:in `index'
+
+
+D, [2015-02-23T16:17:00.917255 #12831] DEBUG -- : 
+D, [2015-02-23T16:17:00.917399 #12831] DEBUG -- : 
+I, [2015-02-23T16:17:00.917658 #12831]  INFO -- : Started GET "/" for ::1 at 2015-02-23 16:17:00 +0100
+F, [2015-02-23T16:17:00.960312 #12831] FATAL -- : 
+ActiveRecord::RecordNotFound (Couldn't find Song with 'id'=):
+  app/controllers/welcome_controller.rb:11:in `index'
+
+
+D, [2015-02-23T16:17:05.416018 #12831] DEBUG -- : 
+D, [2015-02-23T16:17:05.416172 #12831] DEBUG -- : 
+I, [2015-02-23T16:17:05.416417 #12831]  INFO -- : Started PUT "/console/repl_sessions/bd8a925c1305cc6565bcab445231fff5" for ::1 at 2015-02-23 16:17:05 +0100
+D, [2015-02-23T16:17:07.865758 #12831] DEBUG -- : 
+D, [2015-02-23T16:17:07.865998 #12831] DEBUG -- : 
+I, [2015-02-23T16:17:07.866367 #12831]  INFO -- : Started PUT "/console/repl_sessions/bd8a925c1305cc6565bcab445231fff5" for ::1 at 2015-02-23 16:17:07 +0100
+D, [2015-02-23T16:18:14.010444 #12831] DEBUG -- : 
+D, [2015-02-23T16:18:14.010706 #12831] DEBUG -- : 
+I, [2015-02-23T16:18:14.011068 #12831]  INFO -- : Started GET "/" for ::1 at 2015-02-23 16:18:14 +0100
+F, [2015-02-23T16:18:14.075339 #12831] FATAL -- : 
+ActionView::Template::Error (undefined method `name' for nil:NilClass):
+     5: <%= debug @song %>
+     6: <p>
+     7:   <b>Title:</b>
+     8:   <%= @article.name %>
+     9: </p>
+    10: <iframe 
+    11: 	src="<%= @song.link %>?autoplay=1&start=<%= @song.timestamp %>">
+  app/views/welcome/index.html.erb:8:in `_app_views_welcome_index_html_erb___1265847666334209984_53002960'
+
+
+D, [2015-02-23T16:18:18.208867 #12831] DEBUG -- : 
+D, [2015-02-23T16:18:18.208954 #12831] DEBUG -- : 
+I, [2015-02-23T16:18:18.209113 #12831]  INFO -- : Started GET "/" for ::1 at 2015-02-23 16:18:18 +0100
+F, [2015-02-23T16:18:18.219488 #12831] FATAL -- : 
+ActionView::Template::Error (undefined method `name' for nil:NilClass):
+     5: <%= debug @song %>
+     6: <p>
+     7:   <b>Title:</b>
+     8:   <%= @article.name %>
+     9: </p>
+    10: <iframe 
+    11: 	src="<%= @song.link %>?autoplay=1&start=<%= @song.timestamp %>">
+  app/views/welcome/index.html.erb:8:in `_app_views_welcome_index_html_erb___1265847666334209984_53002960'
+
+
+D, [2015-02-23T16:18:18.948916 #12831] DEBUG -- : 
+D, [2015-02-23T16:18:18.949011 #12831] DEBUG -- : 
+I, [2015-02-23T16:18:18.949156 #12831]  INFO -- : Started GET "/" for ::1 at 2015-02-23 16:18:18 +0100
+F, [2015-02-23T16:18:18.960404 #12831] FATAL -- : 
+ActionView::Template::Error (undefined method `name' for nil:NilClass):
+     5: <%= debug @song %>
+     6: <p>
+     7:   <b>Title:</b>
+     8:   <%= @article.name %>
+     9: </p>
+    10: <iframe 
+    11: 	src="<%= @song.link %>?autoplay=1&start=<%= @song.timestamp %>">
+  app/views/welcome/index.html.erb:8:in `_app_views_welcome_index_html_erb___1265847666334209984_53002960'
+
+
+D, [2015-02-23T16:18:19.562028 #12831] DEBUG -- : 
+D, [2015-02-23T16:18:19.562099 #12831] DEBUG -- : 
+I, [2015-02-23T16:18:19.562196 #12831]  INFO -- : Started GET "/" for ::1 at 2015-02-23 16:18:19 +0100
+F, [2015-02-23T16:18:19.573259 #12831] FATAL -- : 
+ActionView::Template::Error (undefined method `name' for nil:NilClass):
+     5: <%= debug @song %>
+     6: <p>
+     7:   <b>Title:</b>
+     8:   <%= @article.name %>
+     9: </p>
+    10: <iframe 
+    11: 	src="<%= @song.link %>?autoplay=1&start=<%= @song.timestamp %>">
+  app/views/welcome/index.html.erb:8:in `_app_views_welcome_index_html_erb___1265847666334209984_53002960'
+
+
+D, [2015-02-23T16:18:20.144530 #12831] DEBUG -- : 
+D, [2015-02-23T16:18:20.144627 #12831] DEBUG -- : 
+I, [2015-02-23T16:18:20.144767 #12831]  INFO -- : Started GET "/" for ::1 at 2015-02-23 16:18:20 +0100
+F, [2015-02-23T16:18:20.159503 #12831] FATAL -- : 
+ActionView::Template::Error (undefined method `name' for nil:NilClass):
+     5: <%= debug @song %>
+     6: <p>
+     7:   <b>Title:</b>
+     8:   <%= @article.name %>
+     9: </p>
+    10: <iframe 
+    11: 	src="<%= @song.link %>?autoplay=1&start=<%= @song.timestamp %>">
+  app/views/welcome/index.html.erb:8:in `_app_views_welcome_index_html_erb___1265847666334209984_53002960'
+
+
+D, [2015-02-23T16:18:20.745790 #12831] DEBUG -- : 
+D, [2015-02-23T16:18:20.745945 #12831] DEBUG -- : 
+I, [2015-02-23T16:18:20.746062 #12831]  INFO -- : Started GET "/" for ::1 at 2015-02-23 16:18:20 +0100
+F, [2015-02-23T16:18:20.756909 #12831] FATAL -- : 
+ActionView::Template::Error (undefined method `name' for nil:NilClass):
+     5: <%= debug @song %>
+     6: <p>
+     7:   <b>Title:</b>
+     8:   <%= @article.name %>
+     9: </p>
+    10: <iframe 
+    11: 	src="<%= @song.link %>?autoplay=1&start=<%= @song.timestamp %>">
+  app/views/welcome/index.html.erb:8:in `_app_views_welcome_index_html_erb___1265847666334209984_53002960'
+
+
+D, [2015-02-23T16:18:21.329679 #12831] DEBUG -- : 
+D, [2015-02-23T16:18:21.329746 #12831] DEBUG -- : 
+I, [2015-02-23T16:18:21.329863 #12831]  INFO -- : Started GET "/" for ::1 at 2015-02-23 16:18:21 +0100
+F, [2015-02-23T16:18:21.341520 #12831] FATAL -- : 
+ActionView::Template::Error (undefined method `name' for nil:NilClass):
+     5: <%= debug @song %>
+     6: <p>
+     7:   <b>Title:</b>
+     8:   <%= @article.name %>
+     9: </p>
+    10: <iframe 
+    11: 	src="<%= @song.link %>?autoplay=1&start=<%= @song.timestamp %>">
+  app/views/welcome/index.html.erb:8:in `_app_views_welcome_index_html_erb___1265847666334209984_53002960'
+
+
+D, [2015-02-23T16:18:21.936508 #12831] DEBUG -- : 
+D, [2015-02-23T16:18:21.936694 #12831] DEBUG -- : 
+I, [2015-02-23T16:18:21.937054 #12831]  INFO -- : Started GET "/" for ::1 at 2015-02-23 16:18:21 +0100
+F, [2015-02-23T16:18:21.961990 #12831] FATAL -- : 
+ActionView::Template::Error (undefined method `name' for nil:NilClass):
+     5: <%= debug @song %>
+     6: <p>
+     7:   <b>Title:</b>
+     8:   <%= @article.name %>
+     9: </p>
+    10: <iframe 
+    11: 	src="<%= @song.link %>?autoplay=1&start=<%= @song.timestamp %>">
+  app/views/welcome/index.html.erb:8:in `_app_views_welcome_index_html_erb___1265847666334209984_53002960'
+
+
+D, [2015-02-23T16:18:22.231215 #12831] DEBUG -- : 
+D, [2015-02-23T16:18:22.231354 #12831] DEBUG -- : 
+I, [2015-02-23T16:18:22.231731 #12831]  INFO -- : Started GET "/" for ::1 at 2015-02-23 16:18:22 +0100
+F, [2015-02-23T16:18:22.241379 #12831] FATAL -- : 
+ActionView::Template::Error (undefined method `name' for nil:NilClass):
+     5: <%= debug @song %>
+     6: <p>
+     7:   <b>Title:</b>
+     8:   <%= @article.name %>
+     9: </p>
+    10: <iframe 
+    11: 	src="<%= @song.link %>?autoplay=1&start=<%= @song.timestamp %>">
+  app/views/welcome/index.html.erb:8:in `_app_views_welcome_index_html_erb___1265847666334209984_53002960'
+
+
+D, [2015-02-23T16:18:22.571478 #12831] DEBUG -- : 
+D, [2015-02-23T16:18:22.571553 #12831] DEBUG -- : 
+I, [2015-02-23T16:18:22.571689 #12831]  INFO -- : Started GET "/" for ::1 at 2015-02-23 16:18:22 +0100
+F, [2015-02-23T16:18:22.588289 #12831] FATAL -- : 
+ActionView::Template::Error (undefined method `name' for nil:NilClass):
+     5: <%= debug @song %>
+     6: <p>
+     7:   <b>Title:</b>
+     8:   <%= @article.name %>
+     9: </p>
+    10: <iframe 
+    11: 	src="<%= @song.link %>?autoplay=1&start=<%= @song.timestamp %>">
+  app/views/welcome/index.html.erb:8:in `_app_views_welcome_index_html_erb___1265847666334209984_53002960'
+
+
+D, [2015-02-23T16:18:23.285663 #12831] DEBUG -- : 
+D, [2015-02-23T16:18:23.285752 #12831] DEBUG -- : 
+I, [2015-02-23T16:18:23.285931 #12831]  INFO -- : Started GET "/" for ::1 at 2015-02-23 16:18:23 +0100
+F, [2015-02-23T16:18:23.298082 #12831] FATAL -- : 
+ActionView::Template::Error (undefined method `name' for nil:NilClass):
+     5: <%= debug @song %>
+     6: <p>
+     7:   <b>Title:</b>
+     8:   <%= @article.name %>
+     9: </p>
+    10: <iframe 
+    11: 	src="<%= @song.link %>?autoplay=1&start=<%= @song.timestamp %>">
+  app/views/welcome/index.html.erb:8:in `_app_views_welcome_index_html_erb___1265847666334209984_53002960'
+
+
+D, [2015-02-23T16:18:23.896311 #12831] DEBUG -- : 
+D, [2015-02-23T16:18:23.896373 #12831] DEBUG -- : 
+I, [2015-02-23T16:18:23.896488 #12831]  INFO -- : Started GET "/" for ::1 at 2015-02-23 16:18:23 +0100
+F, [2015-02-23T16:18:23.907917 #12831] FATAL -- : 
+ActionView::Template::Error (undefined method `name' for nil:NilClass):
+     5: <%= debug @song %>
+     6: <p>
+     7:   <b>Title:</b>
+     8:   <%= @article.name %>
+     9: </p>
+    10: <iframe 
+    11: 	src="<%= @song.link %>?autoplay=1&start=<%= @song.timestamp %>">
+  app/views/welcome/index.html.erb:8:in `_app_views_welcome_index_html_erb___1265847666334209984_53002960'
+
+
+D, [2015-02-23T16:18:24.426071 #12831] DEBUG -- : 
+D, [2015-02-23T16:18:24.426166 #12831] DEBUG -- : 
+I, [2015-02-23T16:18:24.426380 #12831]  INFO -- : Started GET "/" for ::1 at 2015-02-23 16:18:24 +0100
+F, [2015-02-23T16:18:24.437098 #12831] FATAL -- : 
+ActionView::Template::Error (undefined method `name' for nil:NilClass):
+     5: <%= debug @song %>
+     6: <p>
+     7:   <b>Title:</b>
+     8:   <%= @article.name %>
+     9: </p>
+    10: <iframe 
+    11: 	src="<%= @song.link %>?autoplay=1&start=<%= @song.timestamp %>">
+  app/views/welcome/index.html.erb:8:in `_app_views_welcome_index_html_erb___1265847666334209984_53002960'
+
+
+D, [2015-02-23T16:18:24.999564 #12831] DEBUG -- : 
+D, [2015-02-23T16:18:24.999954 #12831] DEBUG -- : 
+I, [2015-02-23T16:18:25.000406 #12831]  INFO -- : Started GET "/" for ::1 at 2015-02-23 16:18:25 +0100
+F, [2015-02-23T16:18:25.012605 #12831] FATAL -- : 
+ActionView::Template::Error (undefined method `name' for nil:NilClass):
+     5: <%= debug @song %>
+     6: <p>
+     7:   <b>Title:</b>
+     8:   <%= @article.name %>
+     9: </p>
+    10: <iframe 
+    11: 	src="<%= @song.link %>?autoplay=1&start=<%= @song.timestamp %>">
+  app/views/welcome/index.html.erb:8:in `_app_views_welcome_index_html_erb___1265847666334209984_53002960'
+
+
+D, [2015-02-23T16:18:25.511693 #12831] DEBUG -- : 
+D, [2015-02-23T16:18:25.511757 #12831] DEBUG -- : 
+I, [2015-02-23T16:18:25.511900 #12831]  INFO -- : Started GET "/" for ::1 at 2015-02-23 16:18:25 +0100
+F, [2015-02-23T16:18:25.522847 #12831] FATAL -- : 
+ActionView::Template::Error (undefined method `name' for nil:NilClass):
+     5: <%= debug @song %>
+     6: <p>
+     7:   <b>Title:</b>
+     8:   <%= @article.name %>
+     9: </p>
+    10: <iframe 
+    11: 	src="<%= @song.link %>?autoplay=1&start=<%= @song.timestamp %>">
+  app/views/welcome/index.html.erb:8:in `_app_views_welcome_index_html_erb___1265847666334209984_53002960'
+
+
+D, [2015-02-23T16:18:26.082363 #12831] DEBUG -- : 
+D, [2015-02-23T16:18:26.082429 #12831] DEBUG -- : 
+I, [2015-02-23T16:18:26.082580 #12831]  INFO -- : Started GET "/" for ::1 at 2015-02-23 16:18:26 +0100
+F, [2015-02-23T16:18:26.093875 #12831] FATAL -- : 
+ActionView::Template::Error (undefined method `name' for nil:NilClass):
+     5: <%= debug @song %>
+     6: <p>
+     7:   <b>Title:</b>
+     8:   <%= @article.name %>
+     9: </p>
+    10: <iframe 
+    11: 	src="<%= @song.link %>?autoplay=1&start=<%= @song.timestamp %>">
+  app/views/welcome/index.html.erb:8:in `_app_views_welcome_index_html_erb___1265847666334209984_53002960'
+
+
+D, [2015-02-23T16:18:26.647260 #12831] DEBUG -- : 
+D, [2015-02-23T16:18:26.647494 #12831] DEBUG -- : 
+I, [2015-02-23T16:18:26.647967 #12831]  INFO -- : Started GET "/" for ::1 at 2015-02-23 16:18:26 +0100
+F, [2015-02-23T16:18:26.659495 #12831] FATAL -- : 
+ActionView::Template::Error (undefined method `name' for nil:NilClass):
+     5: <%= debug @song %>
+     6: <p>
+     7:   <b>Title:</b>
+     8:   <%= @article.name %>
+     9: </p>
+    10: <iframe 
+    11: 	src="<%= @song.link %>?autoplay=1&start=<%= @song.timestamp %>">
+  app/views/welcome/index.html.erb:8:in `_app_views_welcome_index_html_erb___1265847666334209984_53002960'
+
+
+D, [2015-02-23T16:18:27.151464 #12831] DEBUG -- : 
+D, [2015-02-23T16:18:27.151559 #12831] DEBUG -- : 
+I, [2015-02-23T16:18:27.151714 #12831]  INFO -- : Started GET "/" for ::1 at 2015-02-23 16:18:27 +0100
+F, [2015-02-23T16:18:27.162998 #12831] FATAL -- : 
+ActionView::Template::Error (undefined method `name' for nil:NilClass):
+     5: <%= debug @song %>
+     6: <p>
+     7:   <b>Title:</b>
+     8:   <%= @article.name %>
+     9: </p>
+    10: <iframe 
+    11: 	src="<%= @song.link %>?autoplay=1&start=<%= @song.timestamp %>">
+  app/views/welcome/index.html.erb:8:in `_app_views_welcome_index_html_erb___1265847666334209984_53002960'
+
+
+D, [2015-02-23T16:18:27.705562 #12831] DEBUG -- : 
+D, [2015-02-23T16:18:27.705629 #12831] DEBUG -- : 
+I, [2015-02-23T16:18:27.705748 #12831]  INFO -- : Started GET "/" for ::1 at 2015-02-23 16:18:27 +0100
+F, [2015-02-23T16:18:27.716129 #12831] FATAL -- : 
+ActionView::Template::Error (undefined method `name' for nil:NilClass):
+     5: <%= debug @song %>
+     6: <p>
+     7:   <b>Title:</b>
+     8:   <%= @article.name %>
+     9: </p>
+    10: <iframe 
+    11: 	src="<%= @song.link %>?autoplay=1&start=<%= @song.timestamp %>">
+  app/views/welcome/index.html.erb:8:in `_app_views_welcome_index_html_erb___1265847666334209984_53002960'
+
+
+D, [2015-02-23T16:18:44.084195 #12831] DEBUG -- : 
+D, [2015-02-23T16:18:44.084554 #12831] DEBUG -- : 
+I, [2015-02-23T16:18:44.084842 #12831]  INFO -- : Started GET "/" for ::1 at 2015-02-23 16:18:44 +0100
+F, [2015-02-23T16:18:44.167142 #12831] FATAL -- : 
+ActionView::Template::Error (undefined method `name' for nil:NilClass):
+     5: <%= debug @song %>
+     6: <p>
+     7:   <b>Title:</b>
+     8:   <%= @article.name %>
+     9: </p>
+    10: <iframe 
+    11: 	src="<%= @song.link %>?autoplay=1&start=<%= @song.timestamp %>">
+  app/views/welcome/index.html.erb:8:in `_app_views_welcome_index_html_erb___1265847666334209984_53002960'
+
+
+D, [2015-02-23T16:18:57.794367 #12831] DEBUG -- : 
+D, [2015-02-23T16:18:57.794452 #12831] DEBUG -- : 
+I, [2015-02-23T16:18:57.794609 #12831]  INFO -- : Started GET "/" for ::1 at 2015-02-23 16:18:57 +0100
+D, [2015-02-23T16:18:57.912956 #12831] DEBUG -- : 
+D, [2015-02-23T16:18:57.914988 #12831] DEBUG -- : 
+I, [2015-02-23T16:18:57.916669 #12831]  INFO -- : Started GET "/assets/welcome-ac913bc6b7e051712312b4fa8ca33d42.css?body=1" for ::1 at 2015-02-23 16:18:57 +0100
+D, [2015-02-23T16:18:57.918277 #12831] DEBUG -- : 
+D, [2015-02-23T16:18:57.918347 #12831] DEBUG -- : 
+I, [2015-02-23T16:18:57.918549 #12831]  INFO -- : Started GET "/assets/application-c97f2c6d3aaa430522e7d1157fbc3cb6.css?body=1" for ::1 at 2015-02-23 16:18:57 +0100
+D, [2015-02-23T16:18:57.923519 #12831] DEBUG -- : 
+D, [2015-02-23T16:18:57.923609 #12831] DEBUG -- : 
+I, [2015-02-23T16:18:57.923817 #12831]  INFO -- : Started GET "/assets/user_sessions-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:18:57 +0100
+D, [2015-02-23T16:18:57.925270 #12831] DEBUG -- : 
+D, [2015-02-23T16:18:57.925338 #12831] DEBUG -- : 
+I, [2015-02-23T16:18:57.925560 #12831]  INFO -- : Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-02-23 16:18:57 +0100
+D, [2015-02-23T16:18:57.928739 #12831] DEBUG -- : 
+D, [2015-02-23T16:18:57.930277 #12831] DEBUG -- : 
+I, [2015-02-23T16:18:57.930502 #12831]  INFO -- : Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-23 16:18:57 +0100
+D, [2015-02-23T16:18:57.931950 #12831] DEBUG -- : 
+D, [2015-02-23T16:18:57.932023 #12831] DEBUG -- : 
+I, [2015-02-23T16:18:57.932209 #12831]  INFO -- : Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-23 16:18:57 +0100
+D, [2015-02-23T16:18:57.933655 #12831] DEBUG -- : 
+D, [2015-02-23T16:18:57.933724 #12831] DEBUG -- : 
+I, [2015-02-23T16:18:57.933895 #12831]  INFO -- : Started GET "/assets/songs-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:18:57 +0100
+D, [2015-02-23T16:18:57.935339 #12831] DEBUG -- : 
+D, [2015-02-23T16:18:57.935410 #12831] DEBUG -- : 
+I, [2015-02-23T16:18:57.935628 #12831]  INFO -- : Started GET "/assets/users-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:18:57 +0100
+D, [2015-02-23T16:18:57.937066 #12831] DEBUG -- : 
+D, [2015-02-23T16:18:57.937140 #12831] DEBUG -- : 
+I, [2015-02-23T16:18:57.937370 #12831]  INFO -- : Started GET "/assets/welcome-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:18:57 +0100
+D, [2015-02-23T16:18:57.939973 #12831] DEBUG -- : 
+D, [2015-02-23T16:18:57.940053 #12831] DEBUG -- : 
+I, [2015-02-23T16:18:57.940224 #12831]  INFO -- : Started GET "/assets/application-17e4801155788a176bbbc02f37563650.js?body=1" for ::1 at 2015-02-23 16:18:57 +0100
+D, [2015-02-23T16:19:13.182868 #12831] DEBUG -- : 
+D, [2015-02-23T16:19:13.182967 #12831] DEBUG -- : 
+I, [2015-02-23T16:19:13.183124 #12831]  INFO -- : Started GET "/" for ::1 at 2015-02-23 16:19:13 +0100
+D, [2015-02-23T16:19:13.332442 #12831] DEBUG -- : 
+D, [2015-02-23T16:19:13.335874 #12831] DEBUG -- : 
+I, [2015-02-23T16:19:13.340396 #12831]  INFO -- : Started GET "/assets/welcome-ac913bc6b7e051712312b4fa8ca33d42.css?body=1" for ::1 at 2015-02-23 16:19:13 +0100
+D, [2015-02-23T16:19:13.342100 #12831] DEBUG -- : 
+D, [2015-02-23T16:19:13.342203 #12831] DEBUG -- : 
+I, [2015-02-23T16:19:13.342558 #12831]  INFO -- : Started GET "/assets/application-c97f2c6d3aaa430522e7d1157fbc3cb6.css?body=1" for ::1 at 2015-02-23 16:19:13 +0100
+D, [2015-02-23T16:19:13.344674 #12831] DEBUG -- : 
+D, [2015-02-23T16:19:13.346895 #12831] DEBUG -- : 
+I, [2015-02-23T16:19:13.349217 #12831]  INFO -- : Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-23 16:19:13 +0100
+D, [2015-02-23T16:19:13.350701 #12831] DEBUG -- : 
+D, [2015-02-23T16:19:13.350807 #12831] DEBUG -- : 
+I, [2015-02-23T16:19:13.352178 #12831]  INFO -- : Started GET "/assets/songs-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:19:13 +0100
+D, [2015-02-23T16:19:13.357541 #12831] DEBUG -- : 
+D, [2015-02-23T16:19:13.359198 #12831] DEBUG -- : 
+I, [2015-02-23T16:19:13.359428 #12831]  INFO -- : Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-02-23 16:19:13 +0100
+D, [2015-02-23T16:19:13.361375 #12831] DEBUG -- : 
+D, [2015-02-23T16:19:13.362114 #12831] DEBUG -- : 
+I, [2015-02-23T16:19:13.362388 #12831]  INFO -- : Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-23 16:19:13 +0100
+D, [2015-02-23T16:19:13.364316 #12831] DEBUG -- : 
+D, [2015-02-23T16:19:13.364394 #12831] DEBUG -- : 
+I, [2015-02-23T16:19:13.364637 #12831]  INFO -- : Started GET "/assets/user_sessions-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:19:13 +0100
+D, [2015-02-23T16:19:13.366322 #12831] DEBUG -- : 
+D, [2015-02-23T16:19:13.366401 #12831] DEBUG -- : 
+I, [2015-02-23T16:19:13.366626 #12831]  INFO -- : Started GET "/assets/users-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:19:13 +0100
+D, [2015-02-23T16:19:13.368795 #12831] DEBUG -- : 
+D, [2015-02-23T16:19:13.368897 #12831] DEBUG -- : 
+I, [2015-02-23T16:19:13.369130 #12831]  INFO -- : Started GET "/assets/welcome-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:19:13 +0100
+D, [2015-02-23T16:19:13.371256 #12831] DEBUG -- : 
+D, [2015-02-23T16:19:13.371354 #12831] DEBUG -- : 
+I, [2015-02-23T16:19:13.371587 #12831]  INFO -- : Started GET "/assets/application-17e4801155788a176bbbc02f37563650.js?body=1" for ::1 at 2015-02-23 16:19:13 +0100
+D, [2015-02-23T16:19:14.803804 #12831] DEBUG -- : 
+D, [2015-02-23T16:19:14.803925 #12831] DEBUG -- : 
+I, [2015-02-23T16:19:14.804102 #12831]  INFO -- : Started GET "/" for ::1 at 2015-02-23 16:19:14 +0100
+F, [2015-02-23T16:19:14.809250 #12831] FATAL -- : 
+ActiveRecord::RecordNotFound (Couldn't find Song with 'id'=):
+  app/controllers/welcome_controller.rb:11:in `index'
+
+
+D, [2015-02-23T16:21:34.410851 #12831] DEBUG -- : 
+D, [2015-02-23T16:21:34.411188 #12831] DEBUG -- : 
+I, [2015-02-23T16:21:34.411539 #12831]  INFO -- : Started GET "/" for ::1 at 2015-02-23 16:21:34 +0100
+D, [2015-02-23T16:21:34.551998 #12831] DEBUG -- : 
+D, [2015-02-23T16:21:34.552240 #12831] DEBUG -- : 
+I, [2015-02-23T16:21:34.552569 #12831]  INFO -- : Started GET "/assets/welcome-ac913bc6b7e051712312b4fa8ca33d42.css?body=1" for ::1 at 2015-02-23 16:21:34 +0100
+D, [2015-02-23T16:21:34.565516 #12831] DEBUG -- : 
+D, [2015-02-23T16:21:34.567060 #12831] DEBUG -- : 
+I, [2015-02-23T16:21:34.567276 #12831]  INFO -- : Started GET "/assets/application-c97f2c6d3aaa430522e7d1157fbc3cb6.css?body=1" for ::1 at 2015-02-23 16:21:34 +0100
+D, [2015-02-23T16:21:34.568849 #12831] DEBUG -- : 
+D, [2015-02-23T16:21:34.568945 #12831] DEBUG -- : 
+I, [2015-02-23T16:21:34.569247 #12831]  INFO -- : Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-23 16:21:34 +0100
+D, [2015-02-23T16:21:34.571030 #12831] DEBUG -- : 
+D, [2015-02-23T16:21:34.571145 #12831] DEBUG -- : 
+I, [2015-02-23T16:21:34.571436 #12831]  INFO -- : Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-23 16:21:34 +0100
+D, [2015-02-23T16:21:34.575680 #12831] DEBUG -- : 
+D, [2015-02-23T16:21:34.578745 #12831] DEBUG -- : 
+I, [2015-02-23T16:21:34.579008 #12831]  INFO -- : Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-02-23 16:21:34 +0100
+D, [2015-02-23T16:21:34.581066 #12831] DEBUG -- : 
+D, [2015-02-23T16:21:34.581215 #12831] DEBUG -- : 
+I, [2015-02-23T16:21:34.581507 #12831]  INFO -- : Started GET "/assets/songs-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:21:34 +0100
+D, [2015-02-23T16:21:34.584341 #12831] DEBUG -- : 
+D, [2015-02-23T16:21:34.584555 #12831] DEBUG -- : 
+I, [2015-02-23T16:21:34.584748 #12831]  INFO -- : Started GET "/assets/user_sessions-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:21:34 +0100
+D, [2015-02-23T16:21:34.586719 #12831] DEBUG -- : 
+D, [2015-02-23T16:21:34.586845 #12831] DEBUG -- : 
+I, [2015-02-23T16:21:34.587088 #12831]  INFO -- : Started GET "/assets/users-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:21:34 +0100
+D, [2015-02-23T16:21:34.589131 #12831] DEBUG -- : 
+D, [2015-02-23T16:21:34.589296 #12831] DEBUG -- : 
+I, [2015-02-23T16:21:34.589621 #12831]  INFO -- : Started GET "/assets/application-17e4801155788a176bbbc02f37563650.js?body=1" for ::1 at 2015-02-23 16:21:34 +0100
+D, [2015-02-23T16:21:34.591447 #12831] DEBUG -- : 
+D, [2015-02-23T16:21:34.591984 #12831] DEBUG -- : 
+I, [2015-02-23T16:21:34.592218 #12831]  INFO -- : Started GET "/assets/welcome-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:21:34 +0100
+D, [2015-02-23T16:22:38.512570 #12831] DEBUG -- : 
+D, [2015-02-23T16:22:38.512670 #12831] DEBUG -- : 
+I, [2015-02-23T16:22:38.512837 #12831]  INFO -- : Started GET "/" for ::1 at 2015-02-23 16:22:38 +0100
+F, [2015-02-23T16:22:38.561030 #12831] FATAL -- : 
+ActiveRecord::RecordNotFound (Couldn't find Song with 'id'=):
+  app/controllers/welcome_controller.rb:11:in `index'
+
+
+D, [2015-02-23T16:22:40.980120 #12831] DEBUG -- : 
+D, [2015-02-23T16:22:40.980213 #12831] DEBUG -- : 
+I, [2015-02-23T16:22:40.980378 #12831]  INFO -- : Started GET "/" for ::1 at 2015-02-23 16:22:40 +0100
+F, [2015-02-23T16:22:40.988310 #12831] FATAL -- : 
+ActiveRecord::RecordNotFound (Couldn't find Song with 'id'=):
+  app/controllers/welcome_controller.rb:11:in `index'
+
+
+D, [2015-02-23T16:22:41.591599 #12831] DEBUG -- : 
+D, [2015-02-23T16:22:41.591878 #12831] DEBUG -- : 
+I, [2015-02-23T16:22:41.592356 #12831]  INFO -- : Started GET "/" for ::1 at 2015-02-23 16:22:41 +0100
+F, [2015-02-23T16:22:41.601296 #12831] FATAL -- : 
+ActiveRecord::RecordNotFound (Couldn't find Song with 'id'=):
+  app/controllers/welcome_controller.rb:11:in `index'
+
+
+D, [2015-02-23T16:22:42.103902 #12831] DEBUG -- : 
+D, [2015-02-23T16:22:42.103989 #12831] DEBUG -- : 
+I, [2015-02-23T16:22:42.104144 #12831]  INFO -- : Started GET "/" for ::1 at 2015-02-23 16:22:42 +0100
+F, [2015-02-23T16:22:42.107997 #12831] FATAL -- : 
+ActiveRecord::RecordNotFound (Couldn't find Song with 'id'=):
+  app/controllers/welcome_controller.rb:11:in `index'
+
+
+D, [2015-02-23T16:22:42.656905 #12831] DEBUG -- : 
+D, [2015-02-23T16:22:42.656972 #12831] DEBUG -- : 
+I, [2015-02-23T16:22:42.657121 #12831]  INFO -- : Started GET "/" for ::1 at 2015-02-23 16:22:42 +0100
+F, [2015-02-23T16:22:42.661295 #12831] FATAL -- : 
+ActiveRecord::RecordNotFound (Couldn't find Song with 'id'=):
+  app/controllers/welcome_controller.rb:11:in `index'
+
+
+D, [2015-02-23T16:22:43.219626 #12831] DEBUG -- : 
+D, [2015-02-23T16:22:43.219715 #12831] DEBUG -- : 
+I, [2015-02-23T16:22:43.219861 #12831]  INFO -- : Started GET "/" for ::1 at 2015-02-23 16:22:43 +0100
+F, [2015-02-23T16:22:43.223819 #12831] FATAL -- : 
+ActiveRecord::RecordNotFound (Couldn't find Song with 'id'=):
+  app/controllers/welcome_controller.rb:11:in `index'
+
+
+D, [2015-02-23T16:22:43.863235 #12831] DEBUG -- : 
+D, [2015-02-23T16:22:43.863345 #12831] DEBUG -- : 
+I, [2015-02-23T16:22:43.863626 #12831]  INFO -- : Started GET "/" for ::1 at 2015-02-23 16:22:43 +0100
+F, [2015-02-23T16:22:43.870347 #12831] FATAL -- : 
+ActiveRecord::RecordNotFound (Couldn't find Song with 'id'=):
+  app/controllers/welcome_controller.rb:11:in `index'
+
+
+D, [2015-02-23T16:23:32.624276 #12831] DEBUG -- : 
+D, [2015-02-23T16:23:32.624384 #12831] DEBUG -- : 
+I, [2015-02-23T16:23:32.624575 #12831]  INFO -- : Started GET "/" for ::1 at 2015-02-23 16:23:32 +0100
+D, [2015-02-23T16:23:32.802957 #12831] DEBUG -- : 
+D, [2015-02-23T16:23:32.803067 #12831] DEBUG -- : 
+I, [2015-02-23T16:23:32.803254 #12831]  INFO -- : Started GET "/assets/welcome-ac913bc6b7e051712312b4fa8ca33d42.css?body=1" for ::1 at 2015-02-23 16:23:32 +0100
+D, [2015-02-23T16:23:32.817923 #12831] DEBUG -- : 
+D, [2015-02-23T16:23:32.818057 #12831] DEBUG -- : 
+I, [2015-02-23T16:23:32.818354 #12831]  INFO -- : Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-23 16:23:32 +0100
+D, [2015-02-23T16:23:32.823730 #12831] DEBUG -- : 
+D, [2015-02-23T16:23:32.823867 #12831] DEBUG -- : 
+I, [2015-02-23T16:23:32.824141 #12831]  INFO -- : Started GET "/assets/songs-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:23:32 +0100
+D, [2015-02-23T16:23:32.826252 #12831] DEBUG -- : 
+D, [2015-02-23T16:23:32.826382 #12831] DEBUG -- : 
+I, [2015-02-23T16:23:32.828337 #12831]  INFO -- : Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-23 16:23:32 +0100
+D, [2015-02-23T16:23:32.831268 #12831] DEBUG -- : 
+D, [2015-02-23T16:23:32.831727 #12831] DEBUG -- : 
+I, [2015-02-23T16:23:32.833628 #12831]  INFO -- : Started GET "/assets/application-c97f2c6d3aaa430522e7d1157fbc3cb6.css?body=1" for ::1 at 2015-02-23 16:23:32 +0100
+D, [2015-02-23T16:23:32.837482 #12831] DEBUG -- : 
+D, [2015-02-23T16:23:32.837610 #12831] DEBUG -- : 
+I, [2015-02-23T16:23:32.837808 #12831]  INFO -- : Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-02-23 16:23:32 +0100
+D, [2015-02-23T16:23:32.839395 #12831] DEBUG -- : 
+D, [2015-02-23T16:23:32.839805 #12831] DEBUG -- : 
+I, [2015-02-23T16:23:32.840073 #12831]  INFO -- : Started GET "/assets/user_sessions-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:23:32 +0100
+D, [2015-02-23T16:23:32.842173 #12831] DEBUG -- : 
+D, [2015-02-23T16:23:32.842296 #12831] DEBUG -- : 
+I, [2015-02-23T16:23:32.842503 #12831]  INFO -- : Started GET "/assets/users-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:23:32 +0100
+D, [2015-02-23T16:23:32.844055 #12831] DEBUG -- : 
+D, [2015-02-23T16:23:32.844226 #12831] DEBUG -- : 
+I, [2015-02-23T16:23:32.844744 #12831]  INFO -- : Started GET "/assets/welcome-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:23:32 +0100
+D, [2015-02-23T16:23:32.846756 #12831] DEBUG -- : 
+D, [2015-02-23T16:23:32.846854 #12831] DEBUG -- : 
+I, [2015-02-23T16:23:32.847050 #12831]  INFO -- : Started GET "/assets/application-17e4801155788a176bbbc02f37563650.js?body=1" for ::1 at 2015-02-23 16:23:32 +0100
+D, [2015-02-23T16:23:33.380566 #12831] DEBUG -- : 
+D, [2015-02-23T16:23:33.380629 #12831] DEBUG -- : 
+I, [2015-02-23T16:23:33.380742 #12831]  INFO -- : Started GET "/" for ::1 at 2015-02-23 16:23:33 +0100
+D, [2015-02-23T16:23:33.499165 #12831] DEBUG -- : 
+D, [2015-02-23T16:23:33.499306 #12831] DEBUG -- : 
+I, [2015-02-23T16:23:33.499574 #12831]  INFO -- : Started GET "/assets/application-c97f2c6d3aaa430522e7d1157fbc3cb6.css?body=1" for ::1 at 2015-02-23 16:23:33 +0100
+D, [2015-02-23T16:23:33.502052 #12831] DEBUG -- : 
+D, [2015-02-23T16:23:33.502177 #12831] DEBUG -- : 
+I, [2015-02-23T16:23:33.502467 #12831]  INFO -- : Started GET "/assets/welcome-ac913bc6b7e051712312b4fa8ca33d42.css?body=1" for ::1 at 2015-02-23 16:23:33 +0100
+D, [2015-02-23T16:23:33.510831 #12831] DEBUG -- : 
+D, [2015-02-23T16:23:33.515740 #12831] DEBUG -- : 
+I, [2015-02-23T16:23:33.516027 #12831]  INFO -- : Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-23 16:23:33 +0100
+D, [2015-02-23T16:23:33.517826 #12831] DEBUG -- : 
+D, [2015-02-23T16:23:33.520037 #12831] DEBUG -- : 
+I, [2015-02-23T16:23:33.521820 #12831]  INFO -- : Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-02-23 16:23:33 +0100
+D, [2015-02-23T16:23:33.523899 #12831] DEBUG -- : 
+D, [2015-02-23T16:23:33.524039 #12831] DEBUG -- : 
+I, [2015-02-23T16:23:33.524322 #12831]  INFO -- : Started GET "/assets/songs-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:23:33 +0100
+D, [2015-02-23T16:23:33.527937 #12831] DEBUG -- : 
+D, [2015-02-23T16:23:33.528040 #12831] DEBUG -- : 
+I, [2015-02-23T16:23:33.528231 #12831]  INFO -- : Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-23 16:23:33 +0100
+D, [2015-02-23T16:23:33.529850 #12831] DEBUG -- : 
+D, [2015-02-23T16:23:33.529962 #12831] DEBUG -- : 
+I, [2015-02-23T16:23:33.530179 #12831]  INFO -- : Started GET "/assets/user_sessions-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:23:33 +0100
+D, [2015-02-23T16:23:33.531888 #12831] DEBUG -- : 
+D, [2015-02-23T16:23:33.532096 #12831] DEBUG -- : 
+I, [2015-02-23T16:23:33.532403 #12831]  INFO -- : Started GET "/assets/users-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:23:33 +0100
+D, [2015-02-23T16:23:33.534110 #12831] DEBUG -- : 
+D, [2015-02-23T16:23:33.534241 #12831] DEBUG -- : 
+I, [2015-02-23T16:23:33.534495 #12831]  INFO -- : Started GET "/assets/welcome-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:23:33 +0100
+D, [2015-02-23T16:23:33.536467 #12831] DEBUG -- : 
+D, [2015-02-23T16:23:33.536556 #12831] DEBUG -- : 
+I, [2015-02-23T16:23:33.536730 #12831]  INFO -- : Started GET "/assets/application-17e4801155788a176bbbc02f37563650.js?body=1" for ::1 at 2015-02-23 16:23:33 +0100
+D, [2015-02-23T16:23:33.969022 #12831] DEBUG -- : 
+D, [2015-02-23T16:23:33.969111 #12831] DEBUG -- : 
+I, [2015-02-23T16:23:33.969259 #12831]  INFO -- : Started GET "/" for ::1 at 2015-02-23 16:23:33 +0100
+F, [2015-02-23T16:23:33.974060 #12831] FATAL -- : 
+ActiveRecord::RecordNotFound (Couldn't find Song with 'id'=):
+  app/controllers/welcome_controller.rb:11:in `index'
+
+
+D, [2015-02-23T16:35:44.848760 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:44.848983 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:44.849405 #12831]  INFO -- : Started GET "/" for ::1 at 2015-02-23 16:35:44 +0100
+D, [2015-02-23T16:35:45.048602 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:45.051881 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:45.055607 #12831]  INFO -- : Started GET "/assets/application-c97f2c6d3aaa430522e7d1157fbc3cb6.css?body=1" for ::1 at 2015-02-23 16:35:45 +0100
+D, [2015-02-23T16:35:45.058212 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:45.060078 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:45.061890 #12831]  INFO -- : Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-23 16:35:45 +0100
+D, [2015-02-23T16:35:45.063462 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:45.063557 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:45.063777 #12831]  INFO -- : Started GET "/assets/welcome-ac913bc6b7e051712312b4fa8ca33d42.css?body=1" for ::1 at 2015-02-23 16:35:45 +0100
+D, [2015-02-23T16:35:45.065744 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:45.065841 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:45.066069 #12831]  INFO -- : Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-23 16:35:45 +0100
+D, [2015-02-23T16:35:45.070968 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:45.071054 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:45.071232 #12831]  INFO -- : Started GET "/assets/users-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:35:45 +0100
+D, [2015-02-23T16:35:45.072755 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:45.072841 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:45.073097 #12831]  INFO -- : Started GET "/assets/songs-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:35:45 +0100
+D, [2015-02-23T16:35:45.074659 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:45.074748 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:45.074936 #12831]  INFO -- : Started GET "/assets/user_sessions-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:35:45 +0100
+D, [2015-02-23T16:35:45.076374 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:45.076525 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:45.078247 #12831]  INFO -- : Started GET "/assets/welcome-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:35:45 +0100
+D, [2015-02-23T16:35:45.079745 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:45.079825 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:45.080072 #12831]  INFO -- : Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-02-23 16:35:45 +0100
+D, [2015-02-23T16:35:45.081514 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:45.081604 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:45.081793 #12831]  INFO -- : Started GET "/assets/application-17e4801155788a176bbbc02f37563650.js?body=1" for ::1 at 2015-02-23 16:35:45 +0100
+D, [2015-02-23T16:35:45.626248 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:45.626310 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:45.626421 #12831]  INFO -- : Started GET "/" for ::1 at 2015-02-23 16:35:45 +0100
+D, [2015-02-23T16:35:45.745673 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:45.745798 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:45.746061 #12831]  INFO -- : Started GET "/assets/application-c97f2c6d3aaa430522e7d1157fbc3cb6.css?body=1" for ::1 at 2015-02-23 16:35:45 +0100
+D, [2015-02-23T16:35:45.748344 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:45.750531 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:45.757243 #12831]  INFO -- : Started GET "/assets/welcome-ac913bc6b7e051712312b4fa8ca33d42.css?body=1" for ::1 at 2015-02-23 16:35:45 +0100
+D, [2015-02-23T16:35:45.760794 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:45.760937 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:45.763223 #12831]  INFO -- : Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-23 16:35:45 +0100
+D, [2015-02-23T16:35:45.764793 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:45.764920 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:45.765171 #12831]  INFO -- : Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-23 16:35:45 +0100
+D, [2015-02-23T16:35:45.768280 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:45.768381 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:45.770506 #12831]  INFO -- : Started GET "/assets/songs-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:35:45 +0100
+D, [2015-02-23T16:35:45.772417 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:45.772537 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:45.772791 #12831]  INFO -- : Started GET "/assets/user_sessions-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:35:45 +0100
+D, [2015-02-23T16:35:45.774695 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:45.774808 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:45.775071 #12831]  INFO -- : Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-02-23 16:35:45 +0100
+D, [2015-02-23T16:35:45.777126 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:45.777336 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:45.777703 #12831]  INFO -- : Started GET "/assets/users-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:35:45 +0100
+D, [2015-02-23T16:35:45.780788 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:45.780919 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:45.781107 #12831]  INFO -- : Started GET "/assets/welcome-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:35:45 +0100
+D, [2015-02-23T16:35:45.782645 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:45.782861 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:45.783259 #12831]  INFO -- : Started GET "/assets/application-17e4801155788a176bbbc02f37563650.js?body=1" for ::1 at 2015-02-23 16:35:45 +0100
+D, [2015-02-23T16:35:46.234711 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:46.234785 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:46.234916 #12831]  INFO -- : Started GET "/" for ::1 at 2015-02-23 16:35:46 +0100
+D, [2015-02-23T16:35:46.359126 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:46.363702 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:46.363933 #12831]  INFO -- : Started GET "/assets/welcome-ac913bc6b7e051712312b4fa8ca33d42.css?body=1" for ::1 at 2015-02-23 16:35:46 +0100
+D, [2015-02-23T16:35:46.365307 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:46.365372 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:46.365532 #12831]  INFO -- : Started GET "/assets/application-c97f2c6d3aaa430522e7d1157fbc3cb6.css?body=1" for ::1 at 2015-02-23 16:35:46 +0100
+D, [2015-02-23T16:35:46.367227 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:46.367300 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:46.367473 #12831]  INFO -- : Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-23 16:35:46 +0100
+D, [2015-02-23T16:35:46.371978 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:46.373398 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:46.373584 #12831]  INFO -- : Started GET "/assets/songs-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:35:46 +0100
+D, [2015-02-23T16:35:46.376307 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:46.376492 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:46.376673 #12831]  INFO -- : Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-23 16:35:46 +0100
+D, [2015-02-23T16:35:46.378381 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:46.379969 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:46.380173 #12831]  INFO -- : Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-02-23 16:35:46 +0100
+D, [2015-02-23T16:35:46.381564 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:46.381632 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:46.381792 #12831]  INFO -- : Started GET "/assets/user_sessions-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:35:46 +0100
+D, [2015-02-23T16:35:46.383161 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:46.383230 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:46.383394 #12831]  INFO -- : Started GET "/assets/welcome-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:35:46 +0100
+D, [2015-02-23T16:35:46.384815 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:46.384910 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:46.385121 #12831]  INFO -- : Started GET "/assets/users-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:35:46 +0100
+D, [2015-02-23T16:35:46.386794 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:46.386870 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:46.387047 #12831]  INFO -- : Started GET "/assets/application-17e4801155788a176bbbc02f37563650.js?body=1" for ::1 at 2015-02-23 16:35:46 +0100
+D, [2015-02-23T16:35:46.750675 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:46.750731 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:46.750848 #12831]  INFO -- : Started GET "/" for ::1 at 2015-02-23 16:35:46 +0100
+D, [2015-02-23T16:35:46.874309 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:46.874403 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:46.874561 #12831]  INFO -- : Started GET "/assets/application-c97f2c6d3aaa430522e7d1157fbc3cb6.css?body=1" for ::1 at 2015-02-23 16:35:46 +0100
+D, [2015-02-23T16:35:46.880998 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:46.883551 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:46.883700 #12831]  INFO -- : Started GET "/assets/welcome-ac913bc6b7e051712312b4fa8ca33d42.css?body=1" for ::1 at 2015-02-23 16:35:46 +0100
+D, [2015-02-23T16:35:46.885249 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:46.885321 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:46.885497 #12831]  INFO -- : Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-23 16:35:46 +0100
+D, [2015-02-23T16:35:46.887075 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:46.887170 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:46.887385 #12831]  INFO -- : Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-02-23 16:35:46 +0100
+D, [2015-02-23T16:35:46.891075 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:46.893911 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:46.894116 #12831]  INFO -- : Started GET "/assets/songs-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:35:46 +0100
+D, [2015-02-23T16:35:46.895782 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:46.895857 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:46.896028 #12831]  INFO -- : Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-23 16:35:46 +0100
+D, [2015-02-23T16:35:46.897449 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:46.897644 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:46.897813 #12831]  INFO -- : Started GET "/assets/user_sessions-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:35:46 +0100
+D, [2015-02-23T16:35:46.899362 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:46.899459 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:46.899875 #12831]  INFO -- : Started GET "/assets/users-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:35:46 +0100
+D, [2015-02-23T16:35:46.901635 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:46.901713 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:46.901918 #12831]  INFO -- : Started GET "/assets/application-17e4801155788a176bbbc02f37563650.js?body=1" for ::1 at 2015-02-23 16:35:46 +0100
+D, [2015-02-23T16:35:46.903511 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:46.903581 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:46.903921 #12831]  INFO -- : Started GET "/assets/welcome-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:35:46 +0100
+D, [2015-02-23T16:35:47.211733 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:47.211829 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:47.211979 #12831]  INFO -- : Started GET "/" for ::1 at 2015-02-23 16:35:47 +0100
+D, [2015-02-23T16:35:47.333012 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:47.333100 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:47.333427 #12831]  INFO -- : Started GET "/assets/welcome-ac913bc6b7e051712312b4fa8ca33d42.css?body=1" for ::1 at 2015-02-23 16:35:47 +0100
+D, [2015-02-23T16:35:47.344821 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:47.344946 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:47.345215 #12831]  INFO -- : Started GET "/assets/application-c97f2c6d3aaa430522e7d1157fbc3cb6.css?body=1" for ::1 at 2015-02-23 16:35:47 +0100
+D, [2015-02-23T16:35:47.349479 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:47.351717 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:47.351953 #12831]  INFO -- : Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-23 16:35:47 +0100
+D, [2015-02-23T16:35:47.353778 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:47.353920 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:47.354194 #12831]  INFO -- : Started GET "/assets/songs-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:35:47 +0100
+D, [2015-02-23T16:35:47.359019 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:47.360704 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:47.361412 #12831]  INFO -- : Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-02-23 16:35:47 +0100
+D, [2015-02-23T16:35:47.363723 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:47.363816 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:47.364022 #12831]  INFO -- : Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-23 16:35:47 +0100
+D, [2015-02-23T16:35:47.365848 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:47.365960 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:47.366181 #12831]  INFO -- : Started GET "/assets/users-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:35:47 +0100
+D, [2015-02-23T16:35:47.368083 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:47.368173 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:47.368378 #12831]  INFO -- : Started GET "/assets/welcome-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:35:47 +0100
+D, [2015-02-23T16:35:47.369947 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:47.370041 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:47.370349 #12831]  INFO -- : Started GET "/assets/user_sessions-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:35:47 +0100
+D, [2015-02-23T16:35:47.372667 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:47.372787 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:47.372967 #12831]  INFO -- : Started GET "/assets/application-17e4801155788a176bbbc02f37563650.js?body=1" for ::1 at 2015-02-23 16:35:47 +0100
+D, [2015-02-23T16:35:47.669652 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:47.669718 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:47.669819 #12831]  INFO -- : Started GET "/" for ::1 at 2015-02-23 16:35:47 +0100
+D, [2015-02-23T16:35:47.798611 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:47.798671 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:47.798889 #12831]  INFO -- : Started GET "/assets/welcome-ac913bc6b7e051712312b4fa8ca33d42.css?body=1" for ::1 at 2015-02-23 16:35:47 +0100
+D, [2015-02-23T16:35:47.807517 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:47.809044 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:47.812341 #12831]  INFO -- : Started GET "/assets/application-c97f2c6d3aaa430522e7d1157fbc3cb6.css?body=1" for ::1 at 2015-02-23 16:35:47 +0100
+D, [2015-02-23T16:35:47.815930 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:47.817376 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:47.817545 #12831]  INFO -- : Started GET "/assets/songs-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:35:47 +0100
+D, [2015-02-23T16:35:47.819400 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:47.819495 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:47.819696 #12831]  INFO -- : Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-02-23 16:35:47 +0100
+D, [2015-02-23T16:35:47.823449 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:47.823650 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:47.825878 #12831]  INFO -- : Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-23 16:35:47 +0100
+D, [2015-02-23T16:35:47.827603 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:47.827701 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:47.827951 #12831]  INFO -- : Started GET "/assets/user_sessions-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:35:47 +0100
+D, [2015-02-23T16:35:47.829675 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:47.829877 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:47.830113 #12831]  INFO -- : Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-23 16:35:47 +0100
+D, [2015-02-23T16:35:47.831961 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:47.832083 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:47.832332 #12831]  INFO -- : Started GET "/assets/users-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:35:47 +0100
+D, [2015-02-23T16:35:47.833662 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:47.833829 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:47.834046 #12831]  INFO -- : Started GET "/assets/welcome-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:35:47 +0100
+D, [2015-02-23T16:35:47.835443 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:47.835655 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:47.835879 #12831]  INFO -- : Started GET "/assets/application-17e4801155788a176bbbc02f37563650.js?body=1" for ::1 at 2015-02-23 16:35:47 +0100
+D, [2015-02-23T16:35:48.134409 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:48.134519 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:48.134680 #12831]  INFO -- : Started GET "/" for ::1 at 2015-02-23 16:35:48 +0100
+D, [2015-02-23T16:35:48.251128 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:48.251372 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:48.251702 #12831]  INFO -- : Started GET "/assets/welcome-ac913bc6b7e051712312b4fa8ca33d42.css?body=1" for ::1 at 2015-02-23 16:35:48 +0100
+D, [2015-02-23T16:35:48.261582 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:48.272138 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:48.272479 #12831]  INFO -- : Started GET "/assets/application-c97f2c6d3aaa430522e7d1157fbc3cb6.css?body=1" for ::1 at 2015-02-23 16:35:48 +0100
+D, [2015-02-23T16:35:48.276387 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:48.276585 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:48.277065 #12831]  INFO -- : Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-02-23 16:35:48 +0100
+D, [2015-02-23T16:35:48.278576 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:48.278707 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:48.278921 #12831]  INFO -- : Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-23 16:35:48 +0100
+D, [2015-02-23T16:35:48.286862 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:48.287085 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:48.287617 #12831]  INFO -- : Started GET "/assets/songs-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:35:48 +0100
+D, [2015-02-23T16:35:48.289983 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:48.290074 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:48.290311 #12831]  INFO -- : Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-23 16:35:48 +0100
+D, [2015-02-23T16:35:48.293479 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:48.293662 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:48.293964 #12831]  INFO -- : Started GET "/assets/user_sessions-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:35:48 +0100
+D, [2015-02-23T16:35:48.296191 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:48.296284 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:48.296758 #12831]  INFO -- : Started GET "/assets/welcome-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:35:48 +0100
+D, [2015-02-23T16:35:48.298324 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:48.298502 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:48.298706 #12831]  INFO -- : Started GET "/assets/users-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:35:48 +0100
+D, [2015-02-23T16:35:48.300420 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:48.300534 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:48.300777 #12831]  INFO -- : Started GET "/assets/application-17e4801155788a176bbbc02f37563650.js?body=1" for ::1 at 2015-02-23 16:35:48 +0100
+D, [2015-02-23T16:35:48.802227 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:48.802282 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:48.802452 #12831]  INFO -- : Started GET "/" for ::1 at 2015-02-23 16:35:48 +0100
+D, [2015-02-23T16:35:48.929790 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:48.935434 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:48.940207 #12831]  INFO -- : Started GET "/assets/application-c97f2c6d3aaa430522e7d1157fbc3cb6.css?body=1" for ::1 at 2015-02-23 16:35:48 +0100
+D, [2015-02-23T16:35:48.941841 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:48.941996 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:48.942447 #12831]  INFO -- : Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-23 16:35:48 +0100
+D, [2015-02-23T16:35:48.945986 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:48.946471 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:48.946737 #12831]  INFO -- : Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-23 16:35:48 +0100
+D, [2015-02-23T16:35:48.950743 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:48.950848 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:48.951357 #12831]  INFO -- : Started GET "/assets/welcome-ac913bc6b7e051712312b4fa8ca33d42.css?body=1" for ::1 at 2015-02-23 16:35:48 +0100
+D, [2015-02-23T16:35:48.954812 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:48.954899 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:48.955114 #12831]  INFO -- : Started GET "/assets/songs-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:35:48 +0100
+D, [2015-02-23T16:35:48.957365 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:48.957492 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:48.957765 #12831]  INFO -- : Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-02-23 16:35:48 +0100
+D, [2015-02-23T16:35:48.961611 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:48.961687 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:48.961847 #12831]  INFO -- : Started GET "/assets/user_sessions-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:35:48 +0100
+D, [2015-02-23T16:35:48.963441 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:48.963723 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:48.964045 #12831]  INFO -- : Started GET "/assets/users-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:35:48 +0100
+D, [2015-02-23T16:35:48.966278 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:48.966416 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:48.966752 #12831]  INFO -- : Started GET "/assets/welcome-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:35:48 +0100
+D, [2015-02-23T16:35:48.968462 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:48.968559 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:48.968962 #12831]  INFO -- : Started GET "/assets/application-17e4801155788a176bbbc02f37563650.js?body=1" for ::1 at 2015-02-23 16:35:48 +0100
+D, [2015-02-23T16:35:49.305074 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:49.305161 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:49.305305 #12831]  INFO -- : Started GET "/" for ::1 at 2015-02-23 16:35:49 +0100
+D, [2015-02-23T16:35:49.432254 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:49.435177 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:49.435392 #12831]  INFO -- : Started GET "/assets/welcome-ac913bc6b7e051712312b4fa8ca33d42.css?body=1" for ::1 at 2015-02-23 16:35:49 +0100
+D, [2015-02-23T16:35:49.436972 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:49.437044 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:49.437236 #12831]  INFO -- : Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-23 16:35:49 +0100
+D, [2015-02-23T16:35:49.438839 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:49.440473 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:49.442541 #12831]  INFO -- : Started GET "/assets/songs-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:35:49 +0100
+D, [2015-02-23T16:35:49.443977 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:49.444045 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:49.444213 #12831]  INFO -- : Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-02-23 16:35:49 +0100
+D, [2015-02-23T16:35:49.447553 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:49.449236 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:49.449494 #12831]  INFO -- : Started GET "/assets/application-c97f2c6d3aaa430522e7d1157fbc3cb6.css?body=1" for ::1 at 2015-02-23 16:35:49 +0100
+D, [2015-02-23T16:35:49.450924 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:49.450993 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:49.451153 #12831]  INFO -- : Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-23 16:35:49 +0100
+D, [2015-02-23T16:35:49.452814 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:49.452890 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:49.453063 #12831]  INFO -- : Started GET "/assets/user_sessions-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:35:49 +0100
+D, [2015-02-23T16:35:49.454558 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:49.454630 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:49.454784 #12831]  INFO -- : Started GET "/assets/users-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:35:49 +0100
+D, [2015-02-23T16:35:49.456189 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:49.456374 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:49.456539 #12831]  INFO -- : Started GET "/assets/welcome-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:35:49 +0100
+D, [2015-02-23T16:35:49.458121 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:49.458219 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:49.458430 #12831]  INFO -- : Started GET "/assets/application-17e4801155788a176bbbc02f37563650.js?body=1" for ::1 at 2015-02-23 16:35:49 +0100
+D, [2015-02-23T16:35:49.784079 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:49.784174 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:49.784341 #12831]  INFO -- : Started GET "/" for ::1 at 2015-02-23 16:35:49 +0100
+D, [2015-02-23T16:35:49.899408 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:49.899510 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:49.899731 #12831]  INFO -- : Started GET "/assets/application-c97f2c6d3aaa430522e7d1157fbc3cb6.css?body=1" for ::1 at 2015-02-23 16:35:49 +0100
+D, [2015-02-23T16:35:49.904887 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:49.904991 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:49.905240 #12831]  INFO -- : Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-23 16:35:49 +0100
+D, [2015-02-23T16:35:49.915001 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:49.918960 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:49.919258 #12831]  INFO -- : Started GET "/assets/user_sessions-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:35:49 +0100
+D, [2015-02-23T16:35:49.921272 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:49.921419 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:49.921700 #12831]  INFO -- : Started GET "/assets/welcome-ac913bc6b7e051712312b4fa8ca33d42.css?body=1" for ::1 at 2015-02-23 16:35:49 +0100
+D, [2015-02-23T16:35:49.923340 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:49.926051 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:49.927664 #12831]  INFO -- : Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-23 16:35:49 +0100
+D, [2015-02-23T16:35:49.929180 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:49.929593 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:49.929912 #12831]  INFO -- : Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-02-23 16:35:49 +0100
+D, [2015-02-23T16:35:49.931989 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:49.932153 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:49.932468 #12831]  INFO -- : Started GET "/assets/users-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:35:49 +0100
+D, [2015-02-23T16:35:49.934016 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:49.934169 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:49.934480 #12831]  INFO -- : Started GET "/assets/songs-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:35:49 +0100
+D, [2015-02-23T16:35:49.936486 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:49.936594 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:49.936837 #12831]  INFO -- : Started GET "/assets/welcome-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:35:49 +0100
+D, [2015-02-23T16:35:49.940261 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:49.940382 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:49.940664 #12831]  INFO -- : Started GET "/assets/application-17e4801155788a176bbbc02f37563650.js?body=1" for ::1 at 2015-02-23 16:35:49 +0100
+D, [2015-02-23T16:35:50.265101 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:50.265166 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:50.265265 #12831]  INFO -- : Started GET "/" for ::1 at 2015-02-23 16:35:50 +0100
+D, [2015-02-23T16:35:50.400294 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:50.400405 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:50.400630 #12831]  INFO -- : Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-23 16:35:50 +0100
+D, [2015-02-23T16:35:50.406502 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:50.411464 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:50.413183 #12831]  INFO -- : Started GET "/assets/application-c97f2c6d3aaa430522e7d1157fbc3cb6.css?body=1" for ::1 at 2015-02-23 16:35:50 +0100
+D, [2015-02-23T16:35:50.417688 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:50.417814 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:50.417986 #12831]  INFO -- : Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-02-23 16:35:50 +0100
+D, [2015-02-23T16:35:50.420083 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:50.420274 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:50.420514 #12831]  INFO -- : Started GET "/assets/welcome-ac913bc6b7e051712312b4fa8ca33d42.css?body=1" for ::1 at 2015-02-23 16:35:50 +0100
+D, [2015-02-23T16:35:50.426182 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:50.426270 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:50.426486 #12831]  INFO -- : Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-23 16:35:50 +0100
+D, [2015-02-23T16:35:50.428346 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:50.428686 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:50.428903 #12831]  INFO -- : Started GET "/assets/songs-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:35:50 +0100
+D, [2015-02-23T16:35:50.432687 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:50.432769 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:50.432974 #12831]  INFO -- : Started GET "/assets/user_sessions-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:35:50 +0100
+D, [2015-02-23T16:35:50.434466 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:50.434552 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:50.434722 #12831]  INFO -- : Started GET "/assets/welcome-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:35:50 +0100
+D, [2015-02-23T16:35:50.437160 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:50.437314 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:50.437632 #12831]  INFO -- : Started GET "/assets/users-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:35:50 +0100
+D, [2015-02-23T16:35:50.439746 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:50.439832 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:50.440276 #12831]  INFO -- : Started GET "/assets/application-17e4801155788a176bbbc02f37563650.js?body=1" for ::1 at 2015-02-23 16:35:50 +0100
+D, [2015-02-23T16:35:50.731189 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:50.731275 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:50.731411 #12831]  INFO -- : Started GET "/" for ::1 at 2015-02-23 16:35:50 +0100
+D, [2015-02-23T16:35:50.857482 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:50.858974 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:50.859159 #12831]  INFO -- : Started GET "/assets/welcome-ac913bc6b7e051712312b4fa8ca33d42.css?body=1" for ::1 at 2015-02-23 16:35:50 +0100
+D, [2015-02-23T16:35:50.860557 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:50.860637 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:50.860864 #12831]  INFO -- : Started GET "/assets/application-c97f2c6d3aaa430522e7d1157fbc3cb6.css?body=1" for ::1 at 2015-02-23 16:35:50 +0100
+D, [2015-02-23T16:35:50.863070 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:50.863199 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:50.866087 #12831]  INFO -- : Started GET "/assets/songs-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:35:50 +0100
+D, [2015-02-23T16:35:50.869769 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:50.869847 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:50.870036 #12831]  INFO -- : Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-23 16:35:50 +0100
+D, [2015-02-23T16:35:50.875315 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:50.875390 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:50.875551 #12831]  INFO -- : Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-23 16:35:50 +0100
+D, [2015-02-23T16:35:50.877104 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:50.877166 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:50.877285 #12831]  INFO -- : Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-02-23 16:35:50 +0100
+D, [2015-02-23T16:35:50.879043 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:50.879436 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:50.879727 #12831]  INFO -- : Started GET "/assets/user_sessions-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:35:50 +0100
+D, [2015-02-23T16:35:50.881882 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:50.881981 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:50.882209 #12831]  INFO -- : Started GET "/assets/users-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:35:50 +0100
+D, [2015-02-23T16:35:50.884315 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:50.884409 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:50.884618 #12831]  INFO -- : Started GET "/assets/welcome-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:35:50 +0100
+D, [2015-02-23T16:35:50.886406 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:50.886471 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:50.886611 #12831]  INFO -- : Started GET "/assets/application-17e4801155788a176bbbc02f37563650.js?body=1" for ::1 at 2015-02-23 16:35:50 +0100
+D, [2015-02-23T16:35:51.202291 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:51.202356 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:51.202458 #12831]  INFO -- : Started GET "/" for ::1 at 2015-02-23 16:35:51 +0100
+D, [2015-02-23T16:35:51.310619 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:51.310712 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:51.310973 #12831]  INFO -- : Started GET "/assets/application-c97f2c6d3aaa430522e7d1157fbc3cb6.css?body=1" for ::1 at 2015-02-23 16:35:51 +0100
+D, [2015-02-23T16:35:51.312488 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:51.312567 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:51.312768 #12831]  INFO -- : Started GET "/assets/welcome-ac913bc6b7e051712312b4fa8ca33d42.css?body=1" for ::1 at 2015-02-23 16:35:51 +0100
+D, [2015-02-23T16:35:51.324621 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:51.328265 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:51.328558 #12831]  INFO -- : Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-02-23 16:35:51 +0100
+D, [2015-02-23T16:35:51.330889 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:51.331039 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:51.331317 #12831]  INFO -- : Started GET "/assets/user_sessions-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:35:51 +0100
+D, [2015-02-23T16:35:51.333483 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:51.333599 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:51.333833 #12831]  INFO -- : Started GET "/assets/songs-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:35:51 +0100
+D, [2015-02-23T16:35:51.338112 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:51.339899 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:51.340177 #12831]  INFO -- : Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-23 16:35:51 +0100
+D, [2015-02-23T16:35:51.341990 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:51.342072 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:51.342251 #12831]  INFO -- : Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-23 16:35:51 +0100
+D, [2015-02-23T16:35:51.343937 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:51.344097 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:51.344290 #12831]  INFO -- : Started GET "/assets/users-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:35:51 +0100
+D, [2015-02-23T16:35:51.346044 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:51.346173 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:51.346414 #12831]  INFO -- : Started GET "/assets/application-17e4801155788a176bbbc02f37563650.js?body=1" for ::1 at 2015-02-23 16:35:51 +0100
+D, [2015-02-23T16:35:51.348521 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:51.348632 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:51.348892 #12831]  INFO -- : Started GET "/assets/welcome-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:35:51 +0100
+D, [2015-02-23T16:35:51.676079 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:51.676160 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:51.676314 #12831]  INFO -- : Started GET "/" for ::1 at 2015-02-23 16:35:51 +0100
+D, [2015-02-23T16:35:51.816479 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:51.816538 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:51.816675 #12831]  INFO -- : Started GET "/assets/welcome-ac913bc6b7e051712312b4fa8ca33d42.css?body=1" for ::1 at 2015-02-23 16:35:51 +0100
+D, [2015-02-23T16:35:51.825649 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:51.828615 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:51.832818 #12831]  INFO -- : Started GET "/assets/application-c97f2c6d3aaa430522e7d1157fbc3cb6.css?body=1" for ::1 at 2015-02-23 16:35:51 +0100
+D, [2015-02-23T16:35:51.834406 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:51.834544 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:51.834822 #12831]  INFO -- : Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-23 16:35:51 +0100
+D, [2015-02-23T16:35:51.838577 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:51.838837 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:51.841159 #12831]  INFO -- : Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-23 16:35:51 +0100
+D, [2015-02-23T16:35:51.842632 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:51.842739 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:51.842977 #12831]  INFO -- : Started GET "/assets/songs-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:35:51 +0100
+D, [2015-02-23T16:35:51.844742 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:51.844832 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:51.845044 #12831]  INFO -- : Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-02-23 16:35:51 +0100
+D, [2015-02-23T16:35:51.848568 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:51.848686 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:51.848930 #12831]  INFO -- : Started GET "/assets/user_sessions-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:35:51 +0100
+D, [2015-02-23T16:35:51.851147 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:51.851363 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:51.851577 #12831]  INFO -- : Started GET "/assets/users-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:35:51 +0100
+D, [2015-02-23T16:35:51.854707 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:51.855053 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:51.855310 #12831]  INFO -- : Started GET "/assets/welcome-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:35:51 +0100
+D, [2015-02-23T16:35:51.857462 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:51.857589 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:51.857885 #12831]  INFO -- : Started GET "/assets/application-17e4801155788a176bbbc02f37563650.js?body=1" for ::1 at 2015-02-23 16:35:51 +0100
+D, [2015-02-23T16:35:52.101014 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:52.101187 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:52.101361 #12831]  INFO -- : Started GET "/" for ::1 at 2015-02-23 16:35:52 +0100
+D, [2015-02-23T16:35:52.232339 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:52.234630 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:52.234832 #12831]  INFO -- : Started GET "/assets/application-c97f2c6d3aaa430522e7d1157fbc3cb6.css?body=1" for ::1 at 2015-02-23 16:35:52 +0100
+D, [2015-02-23T16:35:52.236242 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:52.236319 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:52.236642 #12831]  INFO -- : Started GET "/assets/welcome-ac913bc6b7e051712312b4fa8ca33d42.css?body=1" for ::1 at 2015-02-23 16:35:52 +0100
+D, [2015-02-23T16:35:52.240490 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:52.240631 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:52.242375 #12831]  INFO -- : Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-23 16:35:52 +0100
+D, [2015-02-23T16:35:52.244560 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:52.244717 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:52.245036 #12831]  INFO -- : Started GET "/assets/songs-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:35:52 +0100
+D, [2015-02-23T16:35:52.246859 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:52.246962 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:52.247189 #12831]  INFO -- : Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-23 16:35:52 +0100
+D, [2015-02-23T16:35:52.251851 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:52.253781 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:52.253987 #12831]  INFO -- : Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-02-23 16:35:52 +0100
+D, [2015-02-23T16:35:52.255515 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:52.255602 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:52.255823 #12831]  INFO -- : Started GET "/assets/user_sessions-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:35:52 +0100
+D, [2015-02-23T16:35:52.257327 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:52.257399 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:52.257613 #12831]  INFO -- : Started GET "/assets/users-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:35:52 +0100
+D, [2015-02-23T16:35:52.259016 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:52.259227 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:52.259464 #12831]  INFO -- : Started GET "/assets/welcome-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:35:52 +0100
+D, [2015-02-23T16:35:52.261069 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:52.261145 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:52.261295 #12831]  INFO -- : Started GET "/assets/application-17e4801155788a176bbbc02f37563650.js?body=1" for ::1 at 2015-02-23 16:35:52 +0100
+D, [2015-02-23T16:35:52.599171 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:52.599273 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:52.599503 #12831]  INFO -- : Started GET "/" for ::1 at 2015-02-23 16:35:52 +0100
+D, [2015-02-23T16:35:52.709178 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:52.709701 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:52.709985 #12831]  INFO -- : Started GET "/assets/welcome-ac913bc6b7e051712312b4fa8ca33d42.css?body=1" for ::1 at 2015-02-23 16:35:52 +0100
+D, [2015-02-23T16:35:52.717595 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:52.717800 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:52.718122 #12831]  INFO -- : Started GET "/assets/songs-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:35:52 +0100
+D, [2015-02-23T16:35:52.722003 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:52.724519 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:52.724915 #12831]  INFO -- : Started GET "/assets/user_sessions-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:35:52 +0100
+D, [2015-02-23T16:35:52.728666 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:52.728771 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:52.728972 #12831]  INFO -- : Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-02-23 16:35:52 +0100
+D, [2015-02-23T16:35:52.730986 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:52.731126 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:52.731360 #12831]  INFO -- : Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-23 16:35:52 +0100
+D, [2015-02-23T16:35:52.735997 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:52.736192 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:52.736472 #12831]  INFO -- : Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-23 16:35:52 +0100
+D, [2015-02-23T16:35:52.740102 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:52.740266 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:52.742540 #12831]  INFO -- : Started GET "/assets/welcome-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:35:52 +0100
+D, [2015-02-23T16:35:52.744128 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:52.744231 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:52.744459 #12831]  INFO -- : Started GET "/assets/users-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:35:52 +0100
+D, [2015-02-23T16:35:52.750545 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:52.750667 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:52.750861 #12831]  INFO -- : Started GET "/assets/application-17e4801155788a176bbbc02f37563650.js?body=1" for ::1 at 2015-02-23 16:35:52 +0100
+D, [2015-02-23T16:35:52.752476 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:52.752624 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:52.752905 #12831]  INFO -- : Started GET "/assets/application-c97f2c6d3aaa430522e7d1157fbc3cb6.css?body=1" for ::1 at 2015-02-23 16:35:52 +0100
+D, [2015-02-23T16:35:53.079914 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:53.079999 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:53.080144 #12831]  INFO -- : Started GET "/" for ::1 at 2015-02-23 16:35:53 +0100
+D, [2015-02-23T16:35:53.218284 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:53.218379 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:53.218595 #12831]  INFO -- : Started GET "/assets/welcome-ac913bc6b7e051712312b4fa8ca33d42.css?body=1" for ::1 at 2015-02-23 16:35:53 +0100
+D, [2015-02-23T16:35:53.223855 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:53.232347 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:53.232635 #12831]  INFO -- : Started GET "/assets/application-c97f2c6d3aaa430522e7d1157fbc3cb6.css?body=1" for ::1 at 2015-02-23 16:35:53 +0100
+D, [2015-02-23T16:35:53.238332 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:53.238469 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:53.238677 #12831]  INFO -- : Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-02-23 16:35:53 +0100
+D, [2015-02-23T16:35:53.241908 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:53.243493 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:53.243685 #12831]  INFO -- : Started GET "/assets/user_sessions-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:35:53 +0100
+D, [2015-02-23T16:35:53.245684 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:53.245808 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:53.246062 #12831]  INFO -- : Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-23 16:35:53 +0100
+D, [2015-02-23T16:35:53.247538 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:53.247868 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:53.248070 #12831]  INFO -- : Started GET "/assets/songs-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:35:53 +0100
+D, [2015-02-23T16:35:53.249467 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:53.251378 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:53.251565 #12831]  INFO -- : Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-23 16:35:53 +0100
+D, [2015-02-23T16:35:53.253070 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:53.253164 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:53.253474 #12831]  INFO -- : Started GET "/assets/users-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:35:53 +0100
+D, [2015-02-23T16:35:53.255261 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:53.255422 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:53.255657 #12831]  INFO -- : Started GET "/assets/welcome-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:35:53 +0100
+D, [2015-02-23T16:35:53.257531 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:53.257617 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:53.257844 #12831]  INFO -- : Started GET "/assets/application-17e4801155788a176bbbc02f37563650.js?body=1" for ::1 at 2015-02-23 16:35:53 +0100
+D, [2015-02-23T16:35:53.548989 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:53.549101 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:53.549250 #12831]  INFO -- : Started GET "/" for ::1 at 2015-02-23 16:35:53 +0100
+D, [2015-02-23T16:35:53.669363 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:53.671034 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:53.675055 #12831]  INFO -- : Started GET "/assets/welcome-ac913bc6b7e051712312b4fa8ca33d42.css?body=1" for ::1 at 2015-02-23 16:35:53 +0100
+D, [2015-02-23T16:35:53.676758 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:53.676825 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:53.676963 #12831]  INFO -- : Started GET "/assets/application-c97f2c6d3aaa430522e7d1157fbc3cb6.css?body=1" for ::1 at 2015-02-23 16:35:53 +0100
+D, [2015-02-23T16:35:53.678257 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:53.678382 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:53.678634 #12831]  INFO -- : Started GET "/assets/songs-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:35:53 +0100
+D, [2015-02-23T16:35:53.680622 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:53.680936 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:53.681219 #12831]  INFO -- : Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-23 16:35:53 +0100
+D, [2015-02-23T16:35:53.687993 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:53.691029 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:53.691328 #12831]  INFO -- : Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-02-23 16:35:53 +0100
+D, [2015-02-23T16:35:53.693570 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:53.693653 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:53.693869 #12831]  INFO -- : Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-23 16:35:53 +0100
+D, [2015-02-23T16:35:53.695574 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:53.695825 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:53.696081 #12831]  INFO -- : Started GET "/assets/user_sessions-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:35:53 +0100
+D, [2015-02-23T16:35:53.698339 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:53.698456 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:53.698725 #12831]  INFO -- : Started GET "/assets/welcome-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:35:53 +0100
+D, [2015-02-23T16:35:53.700698 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:53.700806 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:53.701132 #12831]  INFO -- : Started GET "/assets/application-17e4801155788a176bbbc02f37563650.js?body=1" for ::1 at 2015-02-23 16:35:53 +0100
+D, [2015-02-23T16:35:53.702972 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:53.703121 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:53.703326 #12831]  INFO -- : Started GET "/assets/users-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:35:53 +0100
+D, [2015-02-23T16:35:54.058293 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:54.058370 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:54.058506 #12831]  INFO -- : Started GET "/" for ::1 at 2015-02-23 16:35:54 +0100
+D, [2015-02-23T16:35:54.167774 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:54.172142 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:54.178037 #12831]  INFO -- : Started GET "/assets/welcome-ac913bc6b7e051712312b4fa8ca33d42.css?body=1" for ::1 at 2015-02-23 16:35:54 +0100
+D, [2015-02-23T16:35:54.182188 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:54.182282 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:54.182467 #12831]  INFO -- : Started GET "/assets/application-c97f2c6d3aaa430522e7d1157fbc3cb6.css?body=1" for ::1 at 2015-02-23 16:35:54 +0100
+D, [2015-02-23T16:35:54.183770 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:54.183917 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:54.184218 #12831]  INFO -- : Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-23 16:35:54 +0100
+D, [2015-02-23T16:35:54.189396 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:54.189511 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:54.189757 #12831]  INFO -- : Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-23 16:35:54 +0100
+D, [2015-02-23T16:35:54.194234 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:54.195784 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:54.195939 #12831]  INFO -- : Started GET "/assets/songs-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:35:54 +0100
+D, [2015-02-23T16:35:54.197793 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:54.197943 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:54.198162 #12831]  INFO -- : Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-02-23 16:35:54 +0100
+D, [2015-02-23T16:35:54.200312 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:54.200472 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:54.200766 #12831]  INFO -- : Started GET "/assets/user_sessions-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:35:54 +0100
+D, [2015-02-23T16:35:54.202660 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:54.202745 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:54.202908 #12831]  INFO -- : Started GET "/assets/users-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:35:54 +0100
+D, [2015-02-23T16:35:54.204434 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:54.204642 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:54.205069 #12831]  INFO -- : Started GET "/assets/welcome-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:35:54 +0100
+D, [2015-02-23T16:35:54.207493 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:54.207593 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:54.207862 #12831]  INFO -- : Started GET "/assets/application-17e4801155788a176bbbc02f37563650.js?body=1" for ::1 at 2015-02-23 16:35:54 +0100
+D, [2015-02-23T16:35:54.515456 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:54.515528 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:54.515631 #12831]  INFO -- : Started GET "/" for ::1 at 2015-02-23 16:35:54 +0100
+D, [2015-02-23T16:35:54.657541 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:54.657627 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:54.657836 #12831]  INFO -- : Started GET "/assets/welcome-ac913bc6b7e051712312b4fa8ca33d42.css?body=1" for ::1 at 2015-02-23 16:35:54 +0100
+D, [2015-02-23T16:35:54.663238 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:54.668396 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:54.670197 #12831]  INFO -- : Started GET "/assets/application-c97f2c6d3aaa430522e7d1157fbc3cb6.css?body=1" for ::1 at 2015-02-23 16:35:54 +0100
+D, [2015-02-23T16:35:54.673138 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:54.673236 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:54.673411 #12831]  INFO -- : Started GET "/assets/songs-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:35:54 +0100
+D, [2015-02-23T16:35:54.674779 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:54.674922 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:54.675189 #12831]  INFO -- : Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-02-23 16:35:54 +0100
+D, [2015-02-23T16:35:54.677053 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:54.677190 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:54.677432 #12831]  INFO -- : Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-23 16:35:54 +0100
+D, [2015-02-23T16:35:54.681246 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:54.682765 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:54.684291 #12831]  INFO -- : Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-23 16:35:54 +0100
+D, [2015-02-23T16:35:54.685749 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:54.685876 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:54.686151 #12831]  INFO -- : Started GET "/assets/user_sessions-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:35:54 +0100
+D, [2015-02-23T16:35:54.687748 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:54.687829 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:54.687983 #12831]  INFO -- : Started GET "/assets/welcome-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:35:54 +0100
+D, [2015-02-23T16:35:54.689693 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:54.689831 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:54.690078 #12831]  INFO -- : Started GET "/assets/application-17e4801155788a176bbbc02f37563650.js?body=1" for ::1 at 2015-02-23 16:35:54 +0100
+D, [2015-02-23T16:35:54.691931 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:54.692014 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:54.692166 #12831]  INFO -- : Started GET "/assets/users-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:35:54 +0100
+D, [2015-02-23T16:35:54.959458 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:54.959542 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:54.959697 #12831]  INFO -- : Started GET "/" for ::1 at 2015-02-23 16:35:54 +0100
+D, [2015-02-23T16:35:55.082653 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:55.089797 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:55.090149 #12831]  INFO -- : Started GET "/assets/welcome-ac913bc6b7e051712312b4fa8ca33d42.css?body=1" for ::1 at 2015-02-23 16:35:55 +0100
+D, [2015-02-23T16:35:55.091816 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:55.091902 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:55.092065 #12831]  INFO -- : Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-23 16:35:55 +0100
+D, [2015-02-23T16:35:55.093674 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:55.095448 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:55.095664 #12831]  INFO -- : Started GET "/assets/songs-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:35:55 +0100
+D, [2015-02-23T16:35:55.098611 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:55.098701 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:55.098895 #12831]  INFO -- : Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-02-23 16:35:55 +0100
+D, [2015-02-23T16:35:55.100220 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:55.100757 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:55.100937 #12831]  INFO -- : Started GET "/assets/application-c97f2c6d3aaa430522e7d1157fbc3cb6.css?body=1" for ::1 at 2015-02-23 16:35:55 +0100
+D, [2015-02-23T16:35:55.105764 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:55.105838 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:55.106019 #12831]  INFO -- : Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-23 16:35:55 +0100
+D, [2015-02-23T16:35:55.107548 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:55.107627 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:55.107806 #12831]  INFO -- : Started GET "/assets/user_sessions-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:35:55 +0100
+D, [2015-02-23T16:35:55.109761 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:55.109850 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:55.110020 #12831]  INFO -- : Started GET "/assets/users-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:35:55 +0100
+D, [2015-02-23T16:35:55.111607 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:55.111682 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:55.111848 #12831]  INFO -- : Started GET "/assets/welcome-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:35:55 +0100
+D, [2015-02-23T16:35:55.113340 #12831] DEBUG -- : 
+D, [2015-02-23T16:35:55.113409 #12831] DEBUG -- : 
+I, [2015-02-23T16:35:55.113567 #12831]  INFO -- : Started GET "/assets/application-17e4801155788a176bbbc02f37563650.js?body=1" for ::1 at 2015-02-23 16:35:55 +0100
+D, [2015-02-23T16:38:04.787820 #12831] DEBUG -- : 
+D, [2015-02-23T16:38:04.787911 #12831] DEBUG -- : 
+I, [2015-02-23T16:38:04.788040 #12831]  INFO -- : Started GET "/" for ::1 at 2015-02-23 16:38:04 +0100
+D, [2015-02-23T16:38:04.902526 #12831] DEBUG -- : 
+D, [2015-02-23T16:38:04.902632 #12831] DEBUG -- : 
+I, [2015-02-23T16:38:04.902854 #12831]  INFO -- : Started GET "/assets/welcome-ac913bc6b7e051712312b4fa8ca33d42.css?body=1" for ::1 at 2015-02-23 16:38:04 +0100
+D, [2015-02-23T16:38:04.911695 #12831] DEBUG -- : 
+D, [2015-02-23T16:38:04.917838 #12831] DEBUG -- : 
+I, [2015-02-23T16:38:04.918112 #12831]  INFO -- : Started GET "/assets/application-c97f2c6d3aaa430522e7d1157fbc3cb6.css?body=1" for ::1 at 2015-02-23 16:38:04 +0100
+D, [2015-02-23T16:38:04.919993 #12831] DEBUG -- : 
+D, [2015-02-23T16:38:04.920157 #12831] DEBUG -- : 
+I, [2015-02-23T16:38:04.920443 #12831]  INFO -- : Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-23 16:38:04 +0100
+D, [2015-02-23T16:38:04.924568 #12831] DEBUG -- : 
+D, [2015-02-23T16:38:04.924704 #12831] DEBUG -- : 
+I, [2015-02-23T16:38:04.924963 #12831]  INFO -- : Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-23 16:38:04 +0100
+D, [2015-02-23T16:38:04.926918 #12831] DEBUG -- : 
+D, [2015-02-23T16:38:04.930296 #12831] DEBUG -- : 
+I, [2015-02-23T16:38:04.930505 #12831]  INFO -- : Started GET "/assets/user_sessions-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:38:04 +0100
+D, [2015-02-23T16:38:04.932313 #12831] DEBUG -- : 
+D, [2015-02-23T16:38:04.932430 #12831] DEBUG -- : 
+I, [2015-02-23T16:38:04.932647 #12831]  INFO -- : Started GET "/assets/songs-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:38:04 +0100
+D, [2015-02-23T16:38:04.934590 #12831] DEBUG -- : 
+D, [2015-02-23T16:38:04.934673 #12831] DEBUG -- : 
+I, [2015-02-23T16:38:04.934896 #12831]  INFO -- : Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-02-23 16:38:04 +0100
+D, [2015-02-23T16:38:04.937284 #12831] DEBUG -- : 
+D, [2015-02-23T16:38:04.937438 #12831] DEBUG -- : 
+I, [2015-02-23T16:38:04.937722 #12831]  INFO -- : Started GET "/assets/users-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:38:04 +0100
+D, [2015-02-23T16:38:04.939680 #12831] DEBUG -- : 
+D, [2015-02-23T16:38:04.939768 #12831] DEBUG -- : 
+I, [2015-02-23T16:38:04.940031 #12831]  INFO -- : Started GET "/assets/welcome-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:38:04 +0100
+D, [2015-02-23T16:38:04.941750 #12831] DEBUG -- : 
+D, [2015-02-23T16:38:04.941822 #12831] DEBUG -- : 
+I, [2015-02-23T16:38:04.942057 #12831]  INFO -- : Started GET "/assets/application-17e4801155788a176bbbc02f37563650.js?body=1" for ::1 at 2015-02-23 16:38:04 +0100
+D, [2015-02-23T16:38:05.657884 #12831] DEBUG -- : 
+D, [2015-02-23T16:38:05.657969 #12831] DEBUG -- : 
+I, [2015-02-23T16:38:05.658120 #12831]  INFO -- : Started GET "/" for ::1 at 2015-02-23 16:38:05 +0100
+D, [2015-02-23T16:38:05.796795 #12831] DEBUG -- : 
+D, [2015-02-23T16:38:05.796877 #12831] DEBUG -- : 
+I, [2015-02-23T16:38:05.797072 #12831]  INFO -- : Started GET "/assets/application-c97f2c6d3aaa430522e7d1157fbc3cb6.css?body=1" for ::1 at 2015-02-23 16:38:05 +0100
+D, [2015-02-23T16:38:05.805923 #12831] DEBUG -- : 
+D, [2015-02-23T16:38:05.811704 #12831] DEBUG -- : 
+I, [2015-02-23T16:38:05.811898 #12831]  INFO -- : Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-23 16:38:05 +0100
+D, [2015-02-23T16:38:05.813461 #12831] DEBUG -- : 
+D, [2015-02-23T16:38:05.813603 #12831] DEBUG -- : 
+I, [2015-02-23T16:38:05.813879 #12831]  INFO -- : Started GET "/assets/songs-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:38:05 +0100
+D, [2015-02-23T16:38:05.816046 #12831] DEBUG -- : 
+D, [2015-02-23T16:38:05.817979 #12831] DEBUG -- : 
+I, [2015-02-23T16:38:05.818245 #12831]  INFO -- : Started GET "/assets/welcome-ac913bc6b7e051712312b4fa8ca33d42.css?body=1" for ::1 at 2015-02-23 16:38:05 +0100
+D, [2015-02-23T16:38:05.819890 #12831] DEBUG -- : 
+D, [2015-02-23T16:38:05.821448 #12831] DEBUG -- : 
+I, [2015-02-23T16:38:05.821739 #12831]  INFO -- : Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-02-23 16:38:05 +0100
+D, [2015-02-23T16:38:05.824857 #12831] DEBUG -- : 
+D, [2015-02-23T16:38:05.824935 #12831] DEBUG -- : 
+I, [2015-02-23T16:38:05.825099 #12831]  INFO -- : Started GET "/assets/user_sessions-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:38:05 +0100
+D, [2015-02-23T16:38:05.826444 #12831] DEBUG -- : 
+D, [2015-02-23T16:38:05.826511 #12831] DEBUG -- : 
+I, [2015-02-23T16:38:05.826659 #12831]  INFO -- : Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-23 16:38:05 +0100
+D, [2015-02-23T16:38:05.837926 #12831] DEBUG -- : 
+D, [2015-02-23T16:38:05.838088 #12831] DEBUG -- : 
+I, [2015-02-23T16:38:05.838338 #12831]  INFO -- : Started GET "/assets/users-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:38:05 +0100
+D, [2015-02-23T16:38:05.839917 #12831] DEBUG -- : 
+D, [2015-02-23T16:38:05.839988 #12831] DEBUG -- : 
+I, [2015-02-23T16:38:05.840210 #12831]  INFO -- : Started GET "/assets/welcome-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:38:05 +0100
+D, [2015-02-23T16:38:05.841577 #12831] DEBUG -- : 
+D, [2015-02-23T16:38:05.841651 #12831] DEBUG -- : 
+I, [2015-02-23T16:38:05.841804 #12831]  INFO -- : Started GET "/assets/application-17e4801155788a176bbbc02f37563650.js?body=1" for ::1 at 2015-02-23 16:38:05 +0100
+D, [2015-02-23T16:38:06.474879 #12831] DEBUG -- : 
+D, [2015-02-23T16:38:06.474960 #12831] DEBUG -- : 
+I, [2015-02-23T16:38:06.475040 #12831]  INFO -- : Started GET "/" for ::1 at 2015-02-23 16:38:06 +0100
+D, [2015-02-23T16:38:06.606785 #12831] DEBUG -- : 
+D, [2015-02-23T16:38:06.606913 #12831] DEBUG -- : 
+I, [2015-02-23T16:38:06.607116 #12831]  INFO -- : Started GET "/assets/application-c97f2c6d3aaa430522e7d1157fbc3cb6.css?body=1" for ::1 at 2015-02-23 16:38:06 +0100
+D, [2015-02-23T16:38:06.609503 #12831] DEBUG -- : 
+D, [2015-02-23T16:38:06.609588 #12831] DEBUG -- : 
+I, [2015-02-23T16:38:06.609745 #12831]  INFO -- : Started GET "/assets/welcome-ac913bc6b7e051712312b4fa8ca33d42.css?body=1" for ::1 at 2015-02-23 16:38:06 +0100
+D, [2015-02-23T16:38:06.615895 #12831] DEBUG -- : 
+D, [2015-02-23T16:38:06.615957 #12831] DEBUG -- : 
+I, [2015-02-23T16:38:06.616192 #12831]  INFO -- : Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-23 16:38:06 +0100
+D, [2015-02-23T16:38:06.633139 #12831] DEBUG -- : 
+D, [2015-02-23T16:38:06.633298 #12831] DEBUG -- : 
+I, [2015-02-23T16:38:06.636025 #12831]  INFO -- : Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-23 16:38:06 +0100
+D, [2015-02-23T16:38:06.638314 #12831] DEBUG -- : 
+D, [2015-02-23T16:38:06.638415 #12831] DEBUG -- : 
+I, [2015-02-23T16:38:06.638630 #12831]  INFO -- : Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-02-23 16:38:06 +0100
+D, [2015-02-23T16:38:06.640767 #12831] DEBUG -- : 
+D, [2015-02-23T16:38:06.640872 #12831] DEBUG -- : 
+I, [2015-02-23T16:38:06.641106 #12831]  INFO -- : Started GET "/assets/user_sessions-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:38:06 +0100
+D, [2015-02-23T16:38:06.645623 #12831] DEBUG -- : 
+D, [2015-02-23T16:38:06.645754 #12831] DEBUG -- : 
+I, [2015-02-23T16:38:06.646012 #12831]  INFO -- : Started GET "/assets/songs-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:38:06 +0100
+D, [2015-02-23T16:38:06.647936 #12831] DEBUG -- : 
+D, [2015-02-23T16:38:06.648040 #12831] DEBUG -- : 
+I, [2015-02-23T16:38:06.648577 #12831]  INFO -- : Started GET "/assets/users-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:38:06 +0100
+D, [2015-02-23T16:38:06.651185 #12831] DEBUG -- : 
+D, [2015-02-23T16:38:06.651365 #12831] DEBUG -- : 
+I, [2015-02-23T16:38:06.651573 #12831]  INFO -- : Started GET "/assets/welcome-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:38:06 +0100
+D, [2015-02-23T16:38:06.653958 #12831] DEBUG -- : 
+D, [2015-02-23T16:38:06.654054 #12831] DEBUG -- : 
+I, [2015-02-23T16:38:06.654302 #12831]  INFO -- : Started GET "/assets/application-17e4801155788a176bbbc02f37563650.js?body=1" for ::1 at 2015-02-23 16:38:06 +0100
+D, [2015-02-23T16:38:07.857582 #12831] DEBUG -- : 
+D, [2015-02-23T16:38:07.857640 #12831] DEBUG -- : 
+I, [2015-02-23T16:38:07.857764 #12831]  INFO -- : Started GET "/" for ::1 at 2015-02-23 16:38:07 +0100
+D, [2015-02-23T16:38:07.997077 #12831] DEBUG -- : 
+D, [2015-02-23T16:38:07.997319 #12831] DEBUG -- : 
+I, [2015-02-23T16:38:07.997505 #12831]  INFO -- : Started GET "/assets/application-c97f2c6d3aaa430522e7d1157fbc3cb6.css?body=1" for ::1 at 2015-02-23 16:38:07 +0100
+D, [2015-02-23T16:38:07.998889 #12831] DEBUG -- : 
+D, [2015-02-23T16:38:07.998965 #12831] DEBUG -- : 
+I, [2015-02-23T16:38:07.999173 #12831]  INFO -- : Started GET "/assets/welcome-ac913bc6b7e051712312b4fa8ca33d42.css?body=1" for ::1 at 2015-02-23 16:38:07 +0100
+D, [2015-02-23T16:38:08.007552 #12831] DEBUG -- : 
+D, [2015-02-23T16:38:08.011897 #12831] DEBUG -- : 
+I, [2015-02-23T16:38:08.012071 #12831]  INFO -- : Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-23 16:38:08 +0100
+D, [2015-02-23T16:38:08.013416 #12831] DEBUG -- : 
+D, [2015-02-23T16:38:08.013603 #12831] DEBUG -- : 
+I, [2015-02-23T16:38:08.013789 #12831]  INFO -- : Started GET "/assets/user_sessions-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:38:08 +0100
+D, [2015-02-23T16:38:08.018320 #12831] DEBUG -- : 
+D, [2015-02-23T16:38:08.018410 #12831] DEBUG -- : 
+I, [2015-02-23T16:38:08.018662 #12831]  INFO -- : Started GET "/assets/songs-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:38:08 +0100
+D, [2015-02-23T16:38:08.020158 #12831] DEBUG -- : 
+D, [2015-02-23T16:38:08.020239 #12831] DEBUG -- : 
+I, [2015-02-23T16:38:08.020406 #12831]  INFO -- : Started GET "/assets/users-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:38:08 +0100
+D, [2015-02-23T16:38:08.021808 #12831] DEBUG -- : 
+D, [2015-02-23T16:38:08.021930 #12831] DEBUG -- : 
+I, [2015-02-23T16:38:08.022098 #12831]  INFO -- : Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-02-23 16:38:08 +0100
+D, [2015-02-23T16:38:08.023443 #12831] DEBUG -- : 
+D, [2015-02-23T16:38:08.023596 #12831] DEBUG -- : 
+I, [2015-02-23T16:38:08.023777 #12831]  INFO -- : Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-23 16:38:08 +0100
+D, [2015-02-23T16:38:08.025150 #12831] DEBUG -- : 
+D, [2015-02-23T16:38:08.025274 #12831] DEBUG -- : 
+I, [2015-02-23T16:38:08.025442 #12831]  INFO -- : Started GET "/assets/welcome-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:38:08 +0100
+D, [2015-02-23T16:38:08.027082 #12831] DEBUG -- : 
+D, [2015-02-23T16:38:08.027172 #12831] DEBUG -- : 
+I, [2015-02-23T16:38:08.027439 #12831]  INFO -- : Started GET "/assets/application-17e4801155788a176bbbc02f37563650.js?body=1" for ::1 at 2015-02-23 16:38:08 +0100
+D, [2015-02-23T16:38:09.019628 #12831] DEBUG -- : 
+D, [2015-02-23T16:38:09.019745 #12831] DEBUG -- : 
+I, [2015-02-23T16:38:09.019900 #12831]  INFO -- : Started GET "/" for ::1 at 2015-02-23 16:38:09 +0100
+D, [2015-02-23T16:38:09.148218 #12831] DEBUG -- : 
+D, [2015-02-23T16:38:09.148347 #12831] DEBUG -- : 
+I, [2015-02-23T16:38:09.148596 #12831]  INFO -- : Started GET "/assets/application-c97f2c6d3aaa430522e7d1157fbc3cb6.css?body=1" for ::1 at 2015-02-23 16:38:09 +0100
+D, [2015-02-23T16:38:09.152883 #12831] DEBUG -- : 
+D, [2015-02-23T16:38:09.152988 #12831] DEBUG -- : 
+I, [2015-02-23T16:38:09.153213 #12831]  INFO -- : Started GET "/assets/welcome-ac913bc6b7e051712312b4fa8ca33d42.css?body=1" for ::1 at 2015-02-23 16:38:09 +0100
+D, [2015-02-23T16:38:09.159255 #12831] DEBUG -- : 
+D, [2015-02-23T16:38:09.167468 #12831] DEBUG -- : 
+I, [2015-02-23T16:38:09.167840 #12831]  INFO -- : Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-23 16:38:09 +0100
+D, [2015-02-23T16:38:09.170154 #12831] DEBUG -- : 
+D, [2015-02-23T16:38:09.170245 #12831] DEBUG -- : 
+I, [2015-02-23T16:38:09.170456 #12831]  INFO -- : Started GET "/assets/songs-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:38:09 +0100
+D, [2015-02-23T16:38:09.176093 #12831] DEBUG -- : 
+D, [2015-02-23T16:38:09.176183 #12831] DEBUG -- : 
+I, [2015-02-23T16:38:09.176345 #12831]  INFO -- : Started GET "/assets/user_sessions-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:38:09 +0100
+D, [2015-02-23T16:38:09.177678 #12831] DEBUG -- : 
+D, [2015-02-23T16:38:09.177756 #12831] DEBUG -- : 
+I, [2015-02-23T16:38:09.177924 #12831]  INFO -- : Started GET "/assets/users-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:38:09 +0100
+D, [2015-02-23T16:38:09.179506 #12831] DEBUG -- : 
+D, [2015-02-23T16:38:09.179622 #12831] DEBUG -- : 
+I, [2015-02-23T16:38:09.179969 #12831]  INFO -- : Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-02-23 16:38:09 +0100
+D, [2015-02-23T16:38:09.181606 #12831] DEBUG -- : 
+D, [2015-02-23T16:38:09.181673 #12831] DEBUG -- : 
+I, [2015-02-23T16:38:09.181822 #12831]  INFO -- : Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-23 16:38:09 +0100
+D, [2015-02-23T16:38:09.184175 #12831] DEBUG -- : 
+D, [2015-02-23T16:38:09.184303 #12831] DEBUG -- : 
+I, [2015-02-23T16:38:09.184583 #12831]  INFO -- : Started GET "/assets/welcome-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:38:09 +0100
+D, [2015-02-23T16:38:09.186710 #12831] DEBUG -- : 
+D, [2015-02-23T16:38:09.186911 #12831] DEBUG -- : 
+I, [2015-02-23T16:38:09.187180 #12831]  INFO -- : Started GET "/assets/application-17e4801155788a176bbbc02f37563650.js?body=1" for ::1 at 2015-02-23 16:38:09 +0100
+D, [2015-02-23T16:38:45.313284 #12831] DEBUG -- : 
+D, [2015-02-23T16:38:45.313358 #12831] DEBUG -- : 
+I, [2015-02-23T16:38:45.313484 #12831]  INFO -- : Started GET "/" for ::1 at 2015-02-23 16:38:45 +0100
+D, [2015-02-23T16:38:45.500709 #12831] DEBUG -- : 
+D, [2015-02-23T16:38:45.500843 #12831] DEBUG -- : 
+I, [2015-02-23T16:38:45.501109 #12831]  INFO -- : Started GET "/assets/welcome-1119b07020bc15d3ea498b2d11e1cb97.css?body=1" for ::1 at 2015-02-23 16:38:45 +0100
+D, [2015-02-23T16:38:45.510443 #12831] DEBUG -- : 
+D, [2015-02-23T16:38:45.510835 #12831] DEBUG -- : 
+I, [2015-02-23T16:38:45.517788 #12831]  INFO -- : Started GET "/assets/application-c97f2c6d3aaa430522e7d1157fbc3cb6.css?body=1" for ::1 at 2015-02-23 16:38:45 +0100
+D, [2015-02-23T16:38:45.519152 #12831] DEBUG -- : 
+D, [2015-02-23T16:38:45.519336 #12831] DEBUG -- : 
+I, [2015-02-23T16:38:45.519777 #12831]  INFO -- : Started GET "/assets/user_sessions-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:38:45 +0100
+D, [2015-02-23T16:38:45.521649 #12831] DEBUG -- : 
+D, [2015-02-23T16:38:45.521735 #12831] DEBUG -- : 
+I, [2015-02-23T16:38:45.522013 #12831]  INFO -- : Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-23 16:38:45 +0100
+D, [2015-02-23T16:38:45.523682 #12831] DEBUG -- : 
+D, [2015-02-23T16:38:45.523763 #12831] DEBUG -- : 
+I, [2015-02-23T16:38:45.526856 #12831]  INFO -- : Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-23 16:38:45 +0100
+D, [2015-02-23T16:38:45.529687 #12831] DEBUG -- : 
+D, [2015-02-23T16:38:45.529771 #12831] DEBUG -- : 
+I, [2015-02-23T16:38:45.530037 #12831]  INFO -- : Started GET "/assets/songs-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:38:45 +0100
+D, [2015-02-23T16:38:45.531448 #12831] DEBUG -- : 
+D, [2015-02-23T16:38:45.531751 #12831] DEBUG -- : 
+I, [2015-02-23T16:38:45.531995 #12831]  INFO -- : Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-02-23 16:38:45 +0100
+D, [2015-02-23T16:38:45.533722 #12831] DEBUG -- : 
+D, [2015-02-23T16:38:45.533804 #12831] DEBUG -- : 
+I, [2015-02-23T16:38:45.533978 #12831]  INFO -- : Started GET "/assets/welcome-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:38:45 +0100
+D, [2015-02-23T16:38:45.535755 #12831] DEBUG -- : 
+D, [2015-02-23T16:38:45.535901 #12831] DEBUG -- : 
+I, [2015-02-23T16:38:45.536088 #12831]  INFO -- : Started GET "/assets/users-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:38:45 +0100
+D, [2015-02-23T16:38:45.537792 #12831] DEBUG -- : 
+D, [2015-02-23T16:38:45.537988 #12831] DEBUG -- : 
+I, [2015-02-23T16:38:45.538239 #12831]  INFO -- : Started GET "/assets/application-17e4801155788a176bbbc02f37563650.js?body=1" for ::1 at 2015-02-23 16:38:45 +0100
+D, [2015-02-23T16:39:21.328143 #12831] DEBUG -- : 
+D, [2015-02-23T16:39:21.328215 #12831] DEBUG -- : 
+I, [2015-02-23T16:39:21.328352 #12831]  INFO -- : Started GET "/" for ::1 at 2015-02-23 16:39:21 +0100
+D, [2015-02-23T16:39:21.430904 #12831] DEBUG -- : 
+D, [2015-02-23T16:39:21.430998 #12831] DEBUG -- : 
+I, [2015-02-23T16:39:21.431166 #12831]  INFO -- : Started GET "/assets/welcome-1119b07020bc15d3ea498b2d11e1cb97.css?body=1" for ::1 at 2015-02-23 16:39:21 +0100
+D, [2015-02-23T16:39:21.432509 #12831] DEBUG -- : 
+D, [2015-02-23T16:39:21.432585 #12831] DEBUG -- : 
+I, [2015-02-23T16:39:21.432768 #12831]  INFO -- : Started GET "/assets/application-c97f2c6d3aaa430522e7d1157fbc3cb6.css?body=1" for ::1 at 2015-02-23 16:39:21 +0100
+D, [2015-02-23T16:39:21.436453 #12831] DEBUG -- : 
+D, [2015-02-23T16:39:21.436553 #12831] DEBUG -- : 
+I, [2015-02-23T16:39:21.436760 #12831]  INFO -- : Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-23 16:39:21 +0100
+D, [2015-02-23T16:39:21.443183 #12831] DEBUG -- : 
+D, [2015-02-23T16:39:21.443341 #12831] DEBUG -- : 
+I, [2015-02-23T16:39:21.443657 #12831]  INFO -- : Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-23 16:39:21 +0100
+D, [2015-02-23T16:39:21.448684 #12831] DEBUG -- : 
+D, [2015-02-23T16:39:21.448770 #12831] DEBUG -- : 
+I, [2015-02-23T16:39:21.448977 #12831]  INFO -- : Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-02-23 16:39:21 +0100
+D, [2015-02-23T16:39:21.457195 #12831] DEBUG -- : 
+D, [2015-02-23T16:39:21.468010 #12831] DEBUG -- : 
+I, [2015-02-23T16:39:21.468311 #12831]  INFO -- : Started GET "/assets/songs-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:39:21 +0100
+D, [2015-02-23T16:39:21.470217 #12831] DEBUG -- : 
+D, [2015-02-23T16:39:21.470366 #12831] DEBUG -- : 
+I, [2015-02-23T16:39:21.470581 #12831]  INFO -- : Started GET "/assets/users-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:39:21 +0100
+D, [2015-02-23T16:39:21.472599 #12831] DEBUG -- : 
+D, [2015-02-23T16:39:21.472727 #12831] DEBUG -- : 
+I, [2015-02-23T16:39:21.473001 #12831]  INFO -- : Started GET "/assets/welcome-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:39:21 +0100
+D, [2015-02-23T16:39:21.474981 #12831] DEBUG -- : 
+D, [2015-02-23T16:39:21.475072 #12831] DEBUG -- : 
+I, [2015-02-23T16:39:21.475362 #12831]  INFO -- : Started GET "/assets/application-17e4801155788a176bbbc02f37563650.js?body=1" for ::1 at 2015-02-23 16:39:21 +0100
+D, [2015-02-23T16:39:21.478191 #12831] DEBUG -- : 
+D, [2015-02-23T16:39:21.478292 #12831] DEBUG -- : 
+I, [2015-02-23T16:39:21.478507 #12831]  INFO -- : Started GET "/assets/user_sessions-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:39:21 +0100
+D, [2015-02-23T16:39:25.244074 #12831] DEBUG -- : 
+D, [2015-02-23T16:39:25.244146 #12831] DEBUG -- : 
+I, [2015-02-23T16:39:25.244272 #12831]  INFO -- : Started GET "/" for ::1 at 2015-02-23 16:39:25 +0100
+D, [2015-02-23T16:39:25.393587 #12831] DEBUG -- : 
+D, [2015-02-23T16:39:25.400011 #12831] DEBUG -- : 
+I, [2015-02-23T16:39:25.400303 #12831]  INFO -- : Started GET "/assets/application-c97f2c6d3aaa430522e7d1157fbc3cb6.css?body=1" for ::1 at 2015-02-23 16:39:25 +0100
+D, [2015-02-23T16:39:25.401955 #12831] DEBUG -- : 
+D, [2015-02-23T16:39:25.402046 #12831] DEBUG -- : 
+I, [2015-02-23T16:39:25.402264 #12831]  INFO -- : Started GET "/assets/welcome-1119b07020bc15d3ea498b2d11e1cb97.css?body=1" for ::1 at 2015-02-23 16:39:25 +0100
+D, [2015-02-23T16:39:25.404200 #12831] DEBUG -- : 
+D, [2015-02-23T16:39:25.406229 #12831] DEBUG -- : 
+I, [2015-02-23T16:39:25.406424 #12831]  INFO -- : Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-23 16:39:25 +0100
+D, [2015-02-23T16:39:25.410267 #12831] DEBUG -- : 
+D, [2015-02-23T16:39:25.411789 #12831] DEBUG -- : 
+I, [2015-02-23T16:39:25.411994 #12831]  INFO -- : Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-02-23 16:39:25 +0100
+D, [2015-02-23T16:39:25.413559 #12831] DEBUG -- : 
+D, [2015-02-23T16:39:25.413639 #12831] DEBUG -- : 
+I, [2015-02-23T16:39:25.413827 #12831]  INFO -- : Started GET "/assets/songs-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:39:25 +0100
+D, [2015-02-23T16:39:25.415340 #12831] DEBUG -- : 
+D, [2015-02-23T16:39:25.415570 #12831] DEBUG -- : 
+I, [2015-02-23T16:39:25.416025 #12831]  INFO -- : Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-23 16:39:25 +0100
+D, [2015-02-23T16:39:25.419851 #12831] DEBUG -- : 
+D, [2015-02-23T16:39:25.420031 #12831] DEBUG -- : 
+I, [2015-02-23T16:39:25.420380 #12831]  INFO -- : Started GET "/assets/user_sessions-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:39:25 +0100
+D, [2015-02-23T16:39:25.422179 #12831] DEBUG -- : 
+D, [2015-02-23T16:39:25.422404 #12831] DEBUG -- : 
+I, [2015-02-23T16:39:25.422646 #12831]  INFO -- : Started GET "/assets/users-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:39:25 +0100
+D, [2015-02-23T16:39:25.424485 #12831] DEBUG -- : 
+D, [2015-02-23T16:39:25.424571 #12831] DEBUG -- : 
+I, [2015-02-23T16:39:25.424765 #12831]  INFO -- : Started GET "/assets/welcome-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:39:25 +0100
+D, [2015-02-23T16:39:25.434355 #12831] DEBUG -- : 
+D, [2015-02-23T16:39:25.434493 #12831] DEBUG -- : 
+I, [2015-02-23T16:39:25.434756 #12831]  INFO -- : Started GET "/assets/application-17e4801155788a176bbbc02f37563650.js?body=1" for ::1 at 2015-02-23 16:39:25 +0100
+D, [2015-02-23T16:39:27.768341 #12831] DEBUG -- : 
+D, [2015-02-23T16:39:27.768662 #12831] DEBUG -- : 
+I, [2015-02-23T16:39:27.768775 #12831]  INFO -- : Started GET "/" for ::1 at 2015-02-23 16:39:27 +0100
+D, [2015-02-23T16:39:27.910176 #12831] DEBUG -- : 
+D, [2015-02-23T16:39:27.910297 #12831] DEBUG -- : 
+I, [2015-02-23T16:39:27.910505 #12831]  INFO -- : Started GET "/assets/application-c97f2c6d3aaa430522e7d1157fbc3cb6.css?body=1" for ::1 at 2015-02-23 16:39:27 +0100
+D, [2015-02-23T16:39:27.913615 #12831] DEBUG -- : 
+D, [2015-02-23T16:39:27.913676 #12831] DEBUG -- : 
+I, [2015-02-23T16:39:27.913866 #12831]  INFO -- : Started GET "/assets/welcome-1119b07020bc15d3ea498b2d11e1cb97.css?body=1" for ::1 at 2015-02-23 16:39:27 +0100
+D, [2015-02-23T16:39:27.919847 #12831] DEBUG -- : 
+D, [2015-02-23T16:39:27.929436 #12831] DEBUG -- : 
+I, [2015-02-23T16:39:27.929585 #12831]  INFO -- : Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-23 16:39:27 +0100
+D, [2015-02-23T16:39:27.931370 #12831] DEBUG -- : 
+D, [2015-02-23T16:39:27.931462 #12831] DEBUG -- : 
+I, [2015-02-23T16:39:27.931636 #12831]  INFO -- : Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-23 16:39:27 +0100
+D, [2015-02-23T16:39:27.933109 #12831] DEBUG -- : 
+D, [2015-02-23T16:39:27.934697 #12831] DEBUG -- : 
+I, [2015-02-23T16:39:27.936231 #12831]  INFO -- : Started GET "/assets/user_sessions-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:39:27 +0100
+D, [2015-02-23T16:39:27.937719 #12831] DEBUG -- : 
+D, [2015-02-23T16:39:27.937786 #12831] DEBUG -- : 
+I, [2015-02-23T16:39:27.937950 #12831]  INFO -- : Started GET "/assets/users-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:39:27 +0100
+D, [2015-02-23T16:39:27.939504 #12831] DEBUG -- : 
+D, [2015-02-23T16:39:27.939568 #12831] DEBUG -- : 
+I, [2015-02-23T16:39:27.939712 #12831]  INFO -- : Started GET "/assets/songs-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:39:27 +0100
+D, [2015-02-23T16:39:27.941162 #12831] DEBUG -- : 
+D, [2015-02-23T16:39:27.941240 #12831] DEBUG -- : 
+I, [2015-02-23T16:39:27.941429 #12831]  INFO -- : Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-02-23 16:39:27 +0100
+D, [2015-02-23T16:39:27.942875 #12831] DEBUG -- : 
+D, [2015-02-23T16:39:27.942944 #12831] DEBUG -- : 
+I, [2015-02-23T16:39:27.943131 #12831]  INFO -- : Started GET "/assets/welcome-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:39:27 +0100
+D, [2015-02-23T16:39:27.944458 #12831] DEBUG -- : 
+D, [2015-02-23T16:39:27.944525 #12831] DEBUG -- : 
+I, [2015-02-23T16:39:27.944694 #12831]  INFO -- : Started GET "/assets/application-17e4801155788a176bbbc02f37563650.js?body=1" for ::1 at 2015-02-23 16:39:27 +0100
+D, [2015-02-23T16:39:33.736204 #12831] DEBUG -- : 
+D, [2015-02-23T16:39:33.736347 #12831] DEBUG -- : 
+I, [2015-02-23T16:39:33.736545 #12831]  INFO -- : Started GET "/assets/welcome-1119b07020bc15d3ea498b2d11e1cb97.css?body=1" for ::1 at 2015-02-23 16:39:33 +0100
+D, [2015-02-23T16:39:33.740667 #12831] DEBUG -- : 
+D, [2015-02-23T16:39:33.740744 #12831] DEBUG -- : 
+I, [2015-02-23T16:39:33.740969 #12831]  INFO -- : Started GET "/assets/application-c97f2c6d3aaa430522e7d1157fbc3cb6.css?body=1" for ::1 at 2015-02-23 16:39:33 +0100
+D, [2015-02-23T16:39:34.057409 #12831] DEBUG -- : 
+D, [2015-02-23T16:39:34.057469 #12831] DEBUG -- : 
+I, [2015-02-23T16:39:34.057552 #12831]  INFO -- : Started GET "/" for ::1 at 2015-02-23 16:39:34 +0100
+D, [2015-02-23T16:39:34.211937 #12831] DEBUG -- : 
+D, [2015-02-23T16:39:34.216226 #12831] DEBUG -- : 
+I, [2015-02-23T16:39:34.216492 #12831]  INFO -- : Started GET "/assets/welcome-1119b07020bc15d3ea498b2d11e1cb97.css?body=1" for ::1 at 2015-02-23 16:39:34 +0100
+D, [2015-02-23T16:39:34.224885 #12831] DEBUG -- : 
+D, [2015-02-23T16:39:34.225006 #12831] DEBUG -- : 
+I, [2015-02-23T16:39:34.225181 #12831]  INFO -- : Started GET "/assets/application-c97f2c6d3aaa430522e7d1157fbc3cb6.css?body=1" for ::1 at 2015-02-23 16:39:34 +0100
+D, [2015-02-23T16:39:34.226603 #12831] DEBUG -- : 
+D, [2015-02-23T16:39:34.226676 #12831] DEBUG -- : 
+I, [2015-02-23T16:39:34.226866 #12831]  INFO -- : Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-23 16:39:34 +0100
+D, [2015-02-23T16:39:34.231694 #12831] DEBUG -- : 
+D, [2015-02-23T16:39:34.231815 #12831] DEBUG -- : 
+I, [2015-02-23T16:39:34.232029 #12831]  INFO -- : Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-23 16:39:34 +0100
+D, [2015-02-23T16:39:34.233998 #12831] DEBUG -- : 
+D, [2015-02-23T16:39:34.234080 #12831] DEBUG -- : 
+I, [2015-02-23T16:39:34.234249 #12831]  INFO -- : Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-02-23 16:39:34 +0100
+D, [2015-02-23T16:39:34.237216 #12831] DEBUG -- : 
+D, [2015-02-23T16:39:34.237295 #12831] DEBUG -- : 
+I, [2015-02-23T16:39:34.237450 #12831]  INFO -- : Started GET "/assets/user_sessions-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:39:34 +0100
+D, [2015-02-23T16:39:34.238768 #12831] DEBUG -- : 
+D, [2015-02-23T16:39:34.238867 #12831] DEBUG -- : 
+I, [2015-02-23T16:39:34.239022 #12831]  INFO -- : Started GET "/assets/songs-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:39:34 +0100
+D, [2015-02-23T16:39:34.240420 #12831] DEBUG -- : 
+D, [2015-02-23T16:39:34.240503 #12831] DEBUG -- : 
+I, [2015-02-23T16:39:34.240689 #12831]  INFO -- : Started GET "/assets/users-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:39:34 +0100
+D, [2015-02-23T16:39:34.242042 #12831] DEBUG -- : 
+D, [2015-02-23T16:39:34.242120 #12831] DEBUG -- : 
+I, [2015-02-23T16:39:34.242313 #12831]  INFO -- : Started GET "/assets/welcome-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:39:34 +0100
+D, [2015-02-23T16:39:34.243674 #12831] DEBUG -- : 
+D, [2015-02-23T16:39:34.243754 #12831] DEBUG -- : 
+I, [2015-02-23T16:39:34.243941 #12831]  INFO -- : Started GET "/assets/application-17e4801155788a176bbbc02f37563650.js?body=1" for ::1 at 2015-02-23 16:39:34 +0100
+D, [2015-02-23T16:39:35.486526 #12831] DEBUG -- : 
+D, [2015-02-23T16:39:35.486635 #12831] DEBUG -- : 
+I, [2015-02-23T16:39:35.486789 #12831]  INFO -- : Started GET "/" for ::1 at 2015-02-23 16:39:35 +0100
+D, [2015-02-23T16:39:35.648584 #12831] DEBUG -- : 
+D, [2015-02-23T16:39:35.652965 #12831] DEBUG -- : 
+I, [2015-02-23T16:39:35.653248 #12831]  INFO -- : Started GET "/assets/welcome-1119b07020bc15d3ea498b2d11e1cb97.css?body=1" for ::1 at 2015-02-23 16:39:35 +0100
+D, [2015-02-23T16:39:35.661165 #12831] DEBUG -- : 
+D, [2015-02-23T16:39:35.661251 #12831] DEBUG -- : 
+I, [2015-02-23T16:39:35.661412 #12831]  INFO -- : Started GET "/assets/application-c97f2c6d3aaa430522e7d1157fbc3cb6.css?body=1" for ::1 at 2015-02-23 16:39:35 +0100
+D, [2015-02-23T16:39:35.662967 #12831] DEBUG -- : 
+D, [2015-02-23T16:39:35.663060 #12831] DEBUG -- : 
+I, [2015-02-23T16:39:35.663269 #12831]  INFO -- : Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-23 16:39:35 +0100
+D, [2015-02-23T16:39:35.665443 #12831] DEBUG -- : 
+D, [2015-02-23T16:39:35.667873 #12831] DEBUG -- : 
+I, [2015-02-23T16:39:35.669477 #12831]  INFO -- : Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-23 16:39:35 +0100
+D, [2015-02-23T16:39:35.670917 #12831] DEBUG -- : 
+D, [2015-02-23T16:39:35.671022 #12831] DEBUG -- : 
+I, [2015-02-23T16:39:35.671283 #12831]  INFO -- : Started GET "/assets/songs-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:39:35 +0100
+D, [2015-02-23T16:39:35.674795 #12831] DEBUG -- : 
+D, [2015-02-23T16:39:35.674899 #12831] DEBUG -- : 
+I, [2015-02-23T16:39:35.675115 #12831]  INFO -- : Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-02-23 16:39:35 +0100
+D, [2015-02-23T16:39:35.676698 #12831] DEBUG -- : 
+D, [2015-02-23T16:39:35.676773 #12831] DEBUG -- : 
+I, [2015-02-23T16:39:35.676953 #12831]  INFO -- : Started GET "/assets/user_sessions-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:39:35 +0100
+D, [2015-02-23T16:39:35.678682 #12831] DEBUG -- : 
+D, [2015-02-23T16:39:35.679426 #12831] DEBUG -- : 
+I, [2015-02-23T16:39:35.679751 #12831]  INFO -- : Started GET "/assets/users-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:39:35 +0100
+D, [2015-02-23T16:39:35.681711 #12831] DEBUG -- : 
+D, [2015-02-23T16:39:35.681802 #12831] DEBUG -- : 
+I, [2015-02-23T16:39:35.682022 #12831]  INFO -- : Started GET "/assets/welcome-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:39:35 +0100
+D, [2015-02-23T16:39:35.683783 #12831] DEBUG -- : 
+D, [2015-02-23T16:39:35.683881 #12831] DEBUG -- : 
+I, [2015-02-23T16:39:35.684117 #12831]  INFO -- : Started GET "/assets/application-17e4801155788a176bbbc02f37563650.js?body=1" for ::1 at 2015-02-23 16:39:35 +0100
+D, [2015-02-23T16:39:39.891646 #12831] DEBUG -- : 
+D, [2015-02-23T16:39:39.891706 #12831] DEBUG -- : 
+I, [2015-02-23T16:39:39.891811 #12831]  INFO -- : Started GET "/" for ::1 at 2015-02-23 16:39:39 +0100
+D, [2015-02-23T16:39:40.018558 #12831] DEBUG -- : 
+D, [2015-02-23T16:39:40.028694 #12831] DEBUG -- : 
+I, [2015-02-23T16:39:40.028959 #12831]  INFO -- : Started GET "/assets/welcome-1119b07020bc15d3ea498b2d11e1cb97.css?body=1" for ::1 at 2015-02-23 16:39:40 +0100
+D, [2015-02-23T16:39:40.030744 #12831] DEBUG -- : 
+D, [2015-02-23T16:39:40.030817 #12831] DEBUG -- : 
+I, [2015-02-23T16:39:40.030989 #12831]  INFO -- : Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-23 16:39:40 +0100
+D, [2015-02-23T16:39:40.033073 #12831] DEBUG -- : 
+D, [2015-02-23T16:39:40.033141 #12831] DEBUG -- : 
+I, [2015-02-23T16:39:40.033271 #12831]  INFO -- : Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-23 16:39:40 +0100
+D, [2015-02-23T16:39:40.034722 #12831] DEBUG -- : 
+D, [2015-02-23T16:39:40.034814 #12831] DEBUG -- : 
+I, [2015-02-23T16:39:40.035026 #12831]  INFO -- : Started GET "/assets/application-c97f2c6d3aaa430522e7d1157fbc3cb6.css?body=1" for ::1 at 2015-02-23 16:39:40 +0100
+D, [2015-02-23T16:39:40.036822 #12831] DEBUG -- : 
+D, [2015-02-23T16:39:40.036899 #12831] DEBUG -- : 
+I, [2015-02-23T16:39:40.041394 #12831]  INFO -- : Started GET "/assets/songs-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:39:40 +0100
+D, [2015-02-23T16:39:40.046556 #12831] DEBUG -- : 
+D, [2015-02-23T16:39:40.046616 #12831] DEBUG -- : 
+I, [2015-02-23T16:39:40.046744 #12831]  INFO -- : Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-02-23 16:39:40 +0100
+D, [2015-02-23T16:39:40.048407 #12831] DEBUG -- : 
+D, [2015-02-23T16:39:40.050005 #12831] DEBUG -- : 
+I, [2015-02-23T16:39:40.050150 #12831]  INFO -- : Started GET "/assets/welcome-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:39:40 +0100
+D, [2015-02-23T16:39:40.051499 #12831] DEBUG -- : 
+D, [2015-02-23T16:39:40.051563 #12831] DEBUG -- : 
+I, [2015-02-23T16:39:40.051693 #12831]  INFO -- : Started GET "/assets/users-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:39:40 +0100
+D, [2015-02-23T16:39:40.053087 #12831] DEBUG -- : 
+D, [2015-02-23T16:39:40.053147 #12831] DEBUG -- : 
+I, [2015-02-23T16:39:40.053308 #12831]  INFO -- : Started GET "/assets/application-17e4801155788a176bbbc02f37563650.js?body=1" for ::1 at 2015-02-23 16:39:40 +0100
+D, [2015-02-23T16:39:40.054649 #12831] DEBUG -- : 
+D, [2015-02-23T16:39:40.054746 #12831] DEBUG -- : 
+I, [2015-02-23T16:39:40.054927 #12831]  INFO -- : Started GET "/assets/user_sessions-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-23 16:39:40 +0100
