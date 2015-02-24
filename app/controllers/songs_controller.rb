@@ -1,5 +1,5 @@
 class SongsController < ApplicationController
-	skip_before_filter :require_login, only: [:index]
+	skip_before_action :require_login, only: [:index]
 	def index
 		@songs = Song.all
 	end
@@ -19,7 +19,7 @@ class SongsController < ApplicationController
 	def create 
 		@song = Song.new(song_params)
 
-		if @song.save
+		if @song.save && system("youtube-dl '#{@song.link}' -o '#{get_song_path(@song.name)}'")
 			redirect_to @song
 		else
 			render 'new'
@@ -28,8 +28,9 @@ class SongsController < ApplicationController
 
 	def update
 		@song = Song.find(params[:id])
-
-		if @song.update(song_params);
+		oldname = @song.name
+		if @song.update(song_params)
+			File.rename(get_song_path(oldname), get_song_path(@song.name))
 			redirect_to @song
 		else
 			render 'edit'
@@ -38,6 +39,9 @@ class SongsController < ApplicationController
 
 	def destroy
 		@song = Song.find(params[:id])
+		if File.exist?(get_song_path(@song.name))
+			File.delete(get_song_path(@song.name))
+		end
 		@song.destroy
 
 		redirect_to songs_path
@@ -47,6 +51,10 @@ class SongsController < ApplicationController
 private
 	def song_params
 		params.require(:song).permit(:name, :link, :timestamp)
+	end
+
+	def get_song_path(name)
+		return 'public/' + name + '.mp4'
 	end
 
 end

@@ -1,7 +1,10 @@
 class WelcomeController < ApplicationController
-  skip_before_filter :require_login, only: [:index]
+  skip_before_action :require_login, only: [:index]
   def index
   	songs = Song.all
+    if songs.length == 0 
+      return
+    end
   	songArray = Array.new
   	songs.each do |s|
   		songArray.push(s.id)

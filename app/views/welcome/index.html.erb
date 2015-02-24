@@ -2,10 +2,17 @@
 	<title>YOU ARE AWESOME</title>
 	<%= stylesheet_link_tag 'welcome' %>
 <% end %>
-<iframe 
-	src="<%= @song.link %>?autoplay=1&start=<%= @song.timestamp %>">
-</iframe>
-
+<% if defined?(@song) %>
+<audio id="best" preload="auto">
+  <source src= "<%= @song.name %>.mp4">
+</audio>
+<script>
+best.addEventListener('canplaythrough', function() {
+    this.currentTime = <%= @song.timestamp %>;
+    this.play();
+  });
+</script>
+<% end %>
 <div class="flex-container">
     <div class="flex-item">YOU ARE AWESOME</div>
 </div>
