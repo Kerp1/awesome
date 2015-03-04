@@ -11,6 +11,7 @@ Rails.application.routes.draw do
   resources :users
 
   get 'login' => 'user_sessions#new', :as => :login
+  get 'register' => 'users#new', :as => :register
   post 'logout' => 'user_sessions#destroy', :as => :logout
 
  # get 'welcome/index'

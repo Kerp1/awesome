@@ -1,20 +1,27 @@
-<h1> All songs</h1>
+<main>
+	<div class="container">
+		<h1 class="center-align"> All songs</h1>
+		<table class="striped">
+			<thead>
+				<tr>
+					<th data-field="name">Name</th>
+					<th data-field="timestamp">Timestamp</th>
+				</tr>
+			</thead>
+			<tbody>
+			<% @songs.each do |song| %>
+				<tr>
+					<td><%= song.name %></td>
+					<td><%= song.timestamp %> </td>
+					<td><%= link_to 'Edit', edit_song_path(song) %> </td>
+					<td><%= link_to 'Delete', song_path(song),
+							method: :delete,
+							data: { confirm: 'Are you sure?' } %> </td>
+				</tr>
+			<% end %>
+			</tbody>
+		</table>
+		<%= link_to 'New song', new_song_path, class: 'btn' %>
+	</div>
+</main>
 
-<table>
-	<tr>
-		<th>Name</th>
-		<th>Timestamp</th>
-	</tr>
-
-	<% @songs.each do |song| %>
-		<tr>
-			<td><%= song.name %></td>
-			<td><%= song.timestamp %> </td>
-			<td><%= link_to 'Edit', edit_song_path(song) %> </td>
-			<td><%= link_to 'Delete', song_path(song),
-					method: :delete,
-					data: { confirm: 'Are you sure?' } %> </td>
-		</tr>
-	<% end %>
-	<%= link_to "Logout", :logout, method: :post %>
-</table>

@@ -1,17 +1,31 @@
 <!DOCTYPE html>
 <html>
-<head>
-  <%= yield :head %>
-  <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true %>
-  <%= javascript_include_tag 'application', 'data-turbolinks-track' => true %>
-  <%= csrf_meta_tags %>
-</head>
-<body>
-<div>
-    <p id="notice"><%= flash[:notice] %></p>
-    <p id="alert"><%= flash[:alert] %></p>
-  </div>
-<%= yield %>
+	<head>
+	  <%= yield :head %>
+	  <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true %>
+	  <%= javascript_include_tag 'application', 'data-turbolinks-track' => true %>
+	  <%= csrf_meta_tags %>
+	</head>
+	<body>
+		<header>
+			<%= yield :header %>
+		</header>
+		<!--<div>
+		    <p id="notice"><%= flash[:notice] %></p>
+		    <p id="alert"><%= flash[:alert] %></p>
+		  </div>-->
 
-</body>
+		<%= yield %>
+		<footer class="page-footer">
+			<div class="container">
+				<% if current_user %>
+					<%= link_to "Logout", :logout, method: :post, class: "btn" %>
+				<% else %>
+					<%= link_to "Login", :login, method: :get, class: "btn" %>
+					<%= link_to "Register", :register, method: :get, class: "btn" %>
+				<% end %>
+				<%= yield :footer %>
+			</div>
+		</footer>
+	</body>
 </html>
