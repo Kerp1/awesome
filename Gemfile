@@ -27,6 +27,8 @@ gem 'sorcery', '~>0.9'
 
 gem 'carrierwave'
 
+gem 'materialize-sass'
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
