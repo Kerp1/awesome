@@ -28,9 +28,7 @@ class SongsController < ApplicationController
 
 	def update
 		@song = Song.find(params[:id])
-		oldname = @song.name
 		if @song.update(song_params)
-			File.rename(get_song_path(oldname), get_song_path(@song.name))
 			redirect_to @song
 		else
 			render 'edit'
@@ -39,9 +37,6 @@ class SongsController < ApplicationController
 
 	def destroy
 		@song = Song.find(params[:id])
-		if File.exist?(get_song_path(@song.name))
-			File.delete(get_song_path(@song.name))
-		end
 		@song.destroy
 
 		redirect_to songs_path
@@ -50,11 +45,6 @@ class SongsController < ApplicationController
 
 private
 	def song_params
-		params.require(:song).permit(:name, :link, :timestamp)
+		params.require(:song).permit(:name, :timestamp, :file)
 	end
-
-	def get_song_path(name)
-		return 'public/' + name + '.mp4'
-	end
-
 end
