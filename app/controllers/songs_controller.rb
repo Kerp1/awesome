@@ -19,7 +19,7 @@ class SongsController < ApplicationController
 	def create 
 		@song = Song.new(song_params)
 
-		if @song.save && system("youtube-dl '#{@song.link}' -o '#{get_song_path(@song.name)}'")
+		if @song.save!
 			redirect_to @song
 		else
 			render 'new'
