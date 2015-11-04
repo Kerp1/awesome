@@ -3,16 +3,19 @@
 	<%= stylesheet_link_tag 'welcome' %>
 <% end %>
 <% if defined?(@song) %>
-<audio id="best" preload="auto">
-  <source src= "<%= @song.file.url %>">
-</audio>
-<script>
-best.addEventListener('canplaythrough', function() {
-    this.currentTime = <%= @song.timestamp %>;
-    this.play();
-  });
-</script>
+	<audio id="best" preload="auto">
+	  <source src= "<%= @song.file.url %>">
+	</audio>
+	<script>
+	function playSong() {
+		this.currentTime = <%= @song.timestamp %>;
+	    this.play();
+	    best.removeEventListener('canplaythrough', playSong)
+	}
+	best.addEventListener('canplaythrough', playSong);
+	</script>
 <% end %>
+
 <div class="flex-container">
     <div class="flex-item">YOU ARE AWESOME</div>
 </div>
